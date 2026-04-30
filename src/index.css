@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&family=Playfair+Display:wght@700;800&family=Inter:wght@400;500;600&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* ── Brand ── */
+  --brand:        #7b4f72;
+  --brand-dark:   #624060;
+  --accent:       #c9a49a;
+  --green:        #7d9b76;
+  --green-dark:   #6a8763;
+
+  /* ── Text ── */
+  --text-dark:    #2a1f1f;
+  --text-body:    #5a4a42;
+  --text-mid:     #3a2e2e;
+  --text-muted:   #555;
+  --text-light:   #888;
+
+  /* ── Backgrounds ── */
+  --white:        #ffffff;
+  --bg-warm:      #fffaf7;
+  --bg-cream:     #f0e8e5;
+  --bg-ribbon:    #f9e4e4;
+
+  /* ── Borders ── */
+  --border-soft:  #eeddd4;
+  --border-cream: #e0d5ce;
+  --pink-mid:     #e8b4b8;
+
+  --header-total-height: 112px;
+
+  /* ── Typography ── */
+  --font-sans:    'Inter', sans-serif;
+  --font-display: 'Playfair Display', serif;
+  --font-script:  'Dancing Script', cursive;
+
+  /* ── Shadows ── */
+  --shadow-brand:      0 6px 20px rgba(123, 79, 114, 0.35);
+  --shadow-brand-soft: 0 6px 20px rgba(123, 79, 114, 0.25);
+
+  /* ── Transitions ── */
+  --transition-base: 0.2s ease;
+  --transition-slow: 0.35s ease;
+
+  /* ── Radius ── */
+  --radius-pill: 50px;
+  --radius-sm:   2px;
+
+  /* ── Z-index ── */
+  --z-header:    120;
+  --z-hamburger: 110;
+
+  /* ── Layout ── */
+  --max-width: 1200px;
+
+  /* ── External ── */
+  --color-whatsapp: #25d366;
+}
+
+@media (max-width: 1023px) {
+  :root {
+    --header-total-height: 90px;
+  }
+}
+
+@media (max-width: 639px) {
+  :root {
+    --header-total-height: 82px;
+  }
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--white);
+  color: var(--text-dark);
+  overflow-x: hidden;
+  overscroll-behavior-y: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+button:focus-visible {
+  outline: 2px solid var(--brand);
+  outline-offset: 3px;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

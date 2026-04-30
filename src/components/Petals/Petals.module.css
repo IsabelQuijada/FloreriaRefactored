@@ -1,0 +1,69 @@
+/* Pétalos flotantes decorativos — ported from UnderConstructionWebsite/styles.css */
+
+.petalsContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.petal {
+  position: absolute;
+  border-radius: 50% 0 50% 0;
+  opacity: 0.7;
+  animation: fall linear infinite;
+}
+
+@keyframes fall {
+  0% {
+    top: -10%;
+    transform: translateX(0) rotate(0deg);
+    opacity: 0.7;
+  }
+  20% {
+    opacity: 0.8;
+    transform: translateX(20px) rotate(90deg);
+  }
+  40% {
+    transform: translateX(-20px) rotate(180deg);
+  }
+  60% {
+    transform: translateX(30px) rotate(270deg);
+  }
+  80% {
+    opacity: 0.6;
+    transform: translateX(-15px) rotate(360deg);
+  }
+  100% {
+    top: 110%;
+    transform: translateX(0) rotate(450deg);
+    opacity: 0;
+  }
+}
+
+/* Desktop — doble tamaño. scale actúa independiente del transform del keyframe */
+@media (min-width: 901px) {
+  .petal {
+    scale: 2;
+  }
+}
+
+/* Mobile — tamaño original conservado */
+@media (max-width: 900px) {
+  .petal {
+    width: 12px !important;
+    height: 12px !important;
+  }
+}
+
+/* Respeta la preferencia del sistema de reducir movimiento */
+@media (prefers-reduced-motion: reduce) {
+  .petal {
+    animation: none;
+    opacity: 0;
+  }
+}

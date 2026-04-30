@@ -1,0 +1,192 @@
+/* ─── Footer shell ──────────────────────────────────────────── */
+.footer {
+  background: var(--bg-cream);
+  border-radius: 36px 36px 0 0;
+  color: var(--text-mid);
+  font-family: var(--font-sans);
+  position: relative;
+  overflow: hidden;
+  border-top: 1px solid var(--border-cream);
+}
+
+/* Subtle accent glow */
+.footer::before {
+  content: '';
+  position: absolute;
+  top: -80px;
+  left: -80px;
+  width: 480px;
+  height: 480px;
+  background: radial-gradient(circle, rgba(212, 150, 143, 0.04) 0%, transparent 65%);
+  pointer-events: none;
+}
+
+/* ─── Inner container ───────────────────────────────────────── */
+.inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 60px 40px 48px;
+}
+
+/* ─── Grid ──────────────────────────────────────────────────── */
+.grid {
+  display: grid;
+  grid-template-columns: 1.8fr 1.4fr 1.6fr 1fr;
+  gap: 32px 48px;
+}
+
+/* ─── Column ────────────────────────────────────────────────── */
+.colTitle {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 18px;
+  position: relative;
+  display: inline-block;
+}
+
+.colTitle::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 20px;
+  height: 1.5px;
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+/* ─── Nav links ─────────────────────────────────────────────── */
+.colLinks {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.colLinks li a {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  transition: color var(--transition-base), transform var(--transition-base);
+  display: inline-block;
+  line-height: 1.4;
+}
+
+.colLinks li a:hover {
+  color: var(--accent);
+  transform: translateX(5px);
+}
+
+/* ─── Contact list ──────────────────────────────────────────── */
+.contactList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.contactItem {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.contactIcon {
+  color: var(--accent);
+  flex-shrink: 0;
+}
+
+.whatsappLink {
+  color: var(--text-muted);
+  transition: color var(--transition-base);
+}
+
+.whatsappLink:hover {
+  color: var(--color-whatsapp);
+}
+
+/* ─── Social ────────────────────────────────────────────────── */
+.socialRow {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.socialBtn {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: var(--border-cream);
+  border: 1px solid var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  transition: background var(--transition-base), border-color var(--transition-base), transform var(--transition-base), color var(--transition-base);
+}
+
+.socialBtn:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  transform: translateY(-3px);
+  color: var(--white);
+}
+
+.socialCaption {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  line-height: 1.4;
+  max-width: 130px;
+}
+
+/* ─── Bottom bar ────────────────────────────────────────────── */
+.bottomBar {
+  border-top: 1px solid var(--border-cream);
+  padding: 20px 40px;
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--text-light);
+  letter-spacing: 0.02em;
+}
+
+/* ─── Responsive — tablet ───────────────────────────────────── */
+@media (max-width: 1023px) {
+  .inner {
+    padding: 48px 32px 40px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 36px 40px;
+  }
+
+  .bottomBar {
+    padding: 18px 32px;
+  }
+}
+
+/* ─── Responsive — mobile ───────────────────────────────────── */
+@media (max-width: 639px) {
+  .footer {
+    border-radius: 24px 24px 0 0;
+  }
+
+  .inner {
+    padding: 40px 24px 32px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 24px 20px;
+  }
+
+  .bottomBar {
+    padding: 16px 24px;
+    font-size: 0.74rem;
+  }
+}

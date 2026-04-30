@@ -1,0 +1,36 @@
+.btn {
+  font-family: var(--font-sans);
+  font-size: 1.05rem;
+  font-weight: 700;
+  padding: 1rem 2.8rem;
+  border-radius: var(--radius-pill);
+  transition: background var(--transition-base), transform var(--transition-base), box-shadow var(--transition-base);
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+}
+
+.primary {
+  background-color: var(--brand);
+  color: var(--white);
+}
+
+.primary:hover {
+  background-color: var(--brand-dark);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-brand);
+}
+
+.text {
+  background: transparent;
+  color: var(--brand);
+  border: 2px solid var(--brand);
+  padding: 0.85rem 2.4rem;
+  font-weight: 600;
+}
+
+.text:hover {
+  background-color: var(--brand);
+  color: var(--white);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-brand-soft);
+}
