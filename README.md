@@ -24,12 +24,17 @@ src/
 ├── main.tsx                 # Punto de entrada
 ├── assets/                  # Imágenes estáticas (logo, bouquet)
 ├── constants/
-│   └── nav.ts               # Lista de enlaces de navegación
+│   ├── nav.ts               # Lista de enlaces de navegación
+│   ├── occasions.ts         # Lista de ocasiones especiales
+│   └── products.ts          # Lista de productos favoritos
 └── components/
     ├── Button/              # Botón reutilizable (variantes: primary / text)
+    ├── Cta/                 # Ribbon de llamada a la acción
+    ├── Favoritas/           # Galería de productos favoritos
     ├── Footer/              # Pie de página con contacto y redes sociales
     ├── Hero/                # Sección principal (título, descripción, imagen)
     ├── Navbar/              # Barra de navegación responsiva con menú hamburguesa
+    ├── Ocasiones/           # Grid de ocasiones especiales
     └── Petals/              # Animación decorativa de pétalos flotantes
 ```
 
@@ -52,6 +57,33 @@ Sección principal de la página. Incluye:
 - Dos botones de acción: **Ver catálogo** y **Saber más**.
 - Imagen del arreglo floral destacado.
 - Componente `Petals` como fondo animado.
+- **Altura**: Ocupa 60% de la altura de la ventana (60vh).
+
+### `Favoritas`
+Galería de productos favoritos de la floristería:
+- Grid responsivo de tarjetas de productos.
+- Cada tarjeta muestra imagen, título, precio y botón.
+- Modal con detalles del producto al hacer clic.
+- Fondo con gradiente rosa a crema para diferenciación visual.
+
+### `Ocasiones`
+Grid de ocasiones especiales para las que la floristería ofrece servicios:
+- Grid responsivo (4 columnas en desktop, 2 en tablet, 1 en móvil).
+- 8 categorías: Ramos Elegantes, Ramos Clásicos, Bodas, Cumpleaños, Quinceañera, Celebraciones, Eventos Religiosos, Recordatorios.
+- Tarjetas con imagen de fondo, overlay oscuro y botón "VER GALERÍA".
+- Fondo blanco para contrastar con la sección de Favoritas.
+- Hover effect con elevación y sombra rosa.
+
+### `Cta`
+Ribbon minimalista de llamada a la acción entre el contenido principal y el footer:
+- **Título**: "Seremos tus cómplices" con mensaje inspirador.
+- **Subtítulo**: Mensaje en una sola línea para máxima claridad.
+- **Botón CTA elegante**: "CONTÁCTANOS" rosa con hover sutil.
+- **Fondo cálido claro**: Usa `--bg-warm` para transición suave hacia el footer rosa.
+- **Bordes sutiles**: Líneas superior e inferior para delimitar el área sin dominar.
+- **Overlay decorativo**: Degradado radial muy sutil para textura visual.
+- Diseño compacto y refinado que respeta la jerarquía visual.
+- Mensaje conciso y directo sin información redundante.
 
 ### `Footer`
 Pie de página con tres columnas de información:
@@ -82,6 +114,21 @@ export const NAV_LINKS = ['Favoritas', 'Ocasiones', 'Nosotros', 'Contacto'] as c
 ```
 Array de enlaces compartido entre `Navbar` y `Footer`.
 
+### `src/constants/occasions.ts`
+Define las 8 ocasiones especiales mostradas en la sección `Ocasiones`:
+```ts
+export interface Occasion {
+  id: number;
+  title: string;
+  subtitle: string;
+  image: string;
+}
+```
+Cada ocasión incluye título, subtítulo e imagen representativa de Unsplash.
+
+### `src/constants/products.ts`
+Define los productos favoritos mostrados en la sección `Favoritas` con nombre, precio, descripción e imagen.
+
 ---
 
 ## Instalación y uso
@@ -105,9 +152,35 @@ npm run lint
 
 ---
 
-## Estilos
+
+## Estilos y paleta de colores
 
 Cada componente usa **CSS Modules** (`.module.css`) para evitar colisiones de clases. Los estilos globales (fuentes, reset, variables de color) se definen en `src/index.css`.
+
+### Paleta principal (2026)
+
+| Variable        | Color     | Hex      | Uso principal                |
+|----------------|-----------|----------|------------------------------|
+| `--brand`      | Rosa      | #d64d7a  | Botones, títulos, acentos    |
+| `--brand-dark` | Frambuesa | #b03468  | Hover, variantes oscuras     |
+| `--accent`     | Coral     | #f4a678  | Detalles, tagline, iconos    |
+| `--bg-ribbon`  | Rosa claro| #fce4ec  | Fondo de secciones y footer  |
+| `--bg-cream`   | Crema     | #f0e8e5  | Fondo secundario             |
+| `--bg-warm`    | Blanco cálido | #fffaf7 | Fondo general                |
+| `--pink-mid`   | Rosa medio| #e8b4b8  | Bordes, detalles sutiles     |
+
+### Ejemplo de uso
+
+- El **footer** usa `--bg-ribbon` (rosa claro) para un cierre cálido y acogedor.
+- La sección de **Favoritas** tiene un gradiente de rosa a crema (`--bg-ribbon` → `--bg-cream` → `--white`).
+- La sección de **Ocasiones** usa fondo blanco puro (`--white`) para contrastar con Favoritas.
+- El **ribbon CTA** usa `--bg-warm` (blanco cálido) para transición suave hacia el footer rosa.
+- Los botones principales usan `--brand` y `--brand-dark`.
+- Los títulos y tagline usan `--brand` y `--accent`.
+- El **Hero** ocupa el 60% de la altura de la ventana (60vh) para mejor balance visual.
+- Los hover effects usan sombras con color rosa (`rgba(214, 77, 122, 0.2)`).
+
+Puedes modificar la paleta en `src/index.css` para adaptar la identidad visual.
       tseslint.configs.stylisticTypeChecked,
 
       // Other configs...

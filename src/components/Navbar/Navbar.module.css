@@ -284,11 +284,6 @@
 
 /* ── Mobile (< 640px) ── */
 @media (max-width: 639px) {
-  .ribbonInner {
-    padding: 0.35rem 1rem;
-    gap: 0.7rem;
-    font-size: 0.68rem;
-  }
 
   .ribbonDivider {
     display: none;

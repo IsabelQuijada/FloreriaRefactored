@@ -8,9 +8,9 @@
 
 :root {
   /* ── Brand ── */
-  --brand:        #7b4f72;
-  --brand-dark:   #624060;
-  --accent:       #c9a49a;
+  --brand:        #d64d7a;
+  --brand-dark:   #b03468;
+  --accent:       #f4a678;
   --green:        #7d9b76;
   --green-dark:   #6a8763;
 
@@ -25,7 +25,7 @@
   --white:        #ffffff;
   --bg-warm:      #fffaf7;
   --bg-cream:     #f0e8e5;
-  --bg-ribbon:    #f9e4e4;
+  --bg-ribbon:    #fce4ec;
 
   /* ── Borders ── */
   --border-soft:  #eeddd4;
@@ -70,7 +70,7 @@
 
 @media (max-width: 639px) {
   :root {
-    --header-total-height: 82px;
+    --header-total-height: 60px;
   }
 }
 
