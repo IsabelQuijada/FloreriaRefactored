@@ -22,7 +22,6 @@ const Hero: React.FC = () => {
           </p>
           <div className={styles.actions}>
             <Button label="Ver catálogo" variant="primary" />
-            <Button label="Saber más" variant="text" />
           </div>
         </div>
 
