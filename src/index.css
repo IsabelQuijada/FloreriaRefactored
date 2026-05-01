@@ -101,3 +101,27 @@ button:focus-visible {
   width: 100%;
   min-height: 100vh;
 }
+
+/* ── Dark mode support ── */
+:root[data-theme='dark'] {
+  --brand: #ff7eb9;
+  --brand-dark: #b03468;
+  --accent: #f4a678;
+  --green: #7d9b76;
+  --green-dark: #6a8763;
+
+  --text-dark: #f5e9e9;
+  --text-body: #e0d5ce;
+  --text-mid: #e8b4b8;
+  --text-muted: #aaa;
+  --text-light: #ccc;
+
+  --white: #18141a;
+  --bg-warm: #23182b;
+  --bg-cream: #2a1f2f;
+  --bg-ribbon: #2d1a2d;
+
+  --border-soft: #3a2e3a;
+  --border-cream: #3a2e3a;
+  --pink-mid: #b34b7a;
+}

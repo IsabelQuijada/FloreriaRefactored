@@ -1,11 +1,29 @@
 import React, { useState, useEffect } from 'react';
+// Utilidad para alternar dark mode
+const useDarkMode = () => {
+  const [isDark, setIsDark] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return window.matchMedia('(prefers-color-scheme: dark)').matches;
+    }
+    return false;
+  });
+
+  useEffect(() => {
+    document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
+  }, [isDark]);
+
+  const toggle = () => setIsDark((v) => !v);
+  return [isDark, toggle] as const;
+};
 import styles from './Navbar.module.css';
 import { FaFacebookF, FaInstagram, FaPhone, FaWhatsapp } from 'react-icons/fa';
 import logoImg from '../../assets/floreriaValeriaLogo.png';
 import { NAV_LINKS } from '../../constants/nav';
 
+
 const Navbar: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [isDark, toggleDark] = useDarkMode();
 
   // Close menu when resizing to desktop
   useEffect(() => {
@@ -59,10 +77,22 @@ const Navbar: React.FC = () => {
       </ul>
 
       {/* Desktop right section */}
+
       <div className={styles.navRight}>
         <div className={styles.socialIcons}>
           <a href="#" aria-label="Facebook"><FaFacebookF /></a>
           <a href="#" aria-label="Instagram"><FaInstagram /></a>
+          <button
+            className={styles.darkToggle}
+            onClick={toggleDark}
+            aria-label={isDark ? 'Activar modo claro' : 'Activar modo oscuro'}
+            title={isDark ? 'Modo claro' : 'Modo oscuro'}
+          >
+            <span className={styles.toggleTrack}>
+              <span className={styles.toggleThumb} style={{ left: isDark ? '18px' : '2px' }} />
+              <span className={styles.toggleIcon} aria-hidden="true">{isDark ? '🌙' : '☀️'}</span>
+            </span>
+          </button>
         </div>
       </div>
 

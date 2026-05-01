@@ -169,6 +169,46 @@
   font-size: 1.2rem;
 }
 
+/* Dark mode toggle */
+.darkToggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.toggleTrack {
+  position: relative;
+  width: 36px;
+  height: 20px;
+  background: var(--border-soft);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  transition: background 0.2s;
+}
+
+.toggleThumb {
+  position: absolute;
+  top: 2px;
+  width: 16px;
+  height: 16px;
+  background: var(--brand);
+  border-radius: 50%;
+  transition: left 0.2s;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+}
+
+.toggleIcon {
+  position: absolute;
+  right: 4px;
+  font-size: 1rem;
+  pointer-events: none;
+}
+
 .socialIcons a {
   color: var(--text-mid);
   display: flex;
