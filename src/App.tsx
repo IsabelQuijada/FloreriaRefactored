@@ -1,4 +1,5 @@
-import { Routes, Route } from 'react-router-dom';
+import { useEffect } from 'react';
+import { Routes, Route, useLocation } from 'react-router-dom';
 import './index.css';
 import Navbar from './components/Navbar/Navbar';
 import Hero from './components/Hero/Hero';
@@ -9,6 +10,13 @@ import Footer from './components/Footer/Footer';
 import ProductsPage from './pages/ProductsPage/ProductsPage';
 import NosotrosPage from './pages/NosotrosPage/NosotrosPage';
 import ContactoPage from './pages/ContactoPage/ContactoPage';
+import WhatsAppButton from './components/WhatsAppButton/WhatsAppButton';
+
+function ScrollToTop() {
+  const { pathname } = useLocation();
+  useEffect(() => { window.scrollTo(0, 0); }, [pathname]);
+  return null;
+}
 
 function HomePage() {
   return (
@@ -24,6 +32,7 @@ function HomePage() {
 function App() {
   return (
     <>
+      <ScrollToTop />
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -32,6 +41,7 @@ function App() {
         <Route path="/productos/:categorySlug" element={<ProductsPage />} />
       </Routes>
       <Footer />
+      <WhatsAppButton />
     </>
   );
 }

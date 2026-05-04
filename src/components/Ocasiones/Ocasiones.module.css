@@ -129,10 +129,12 @@
   font-weight: 700;
   font-size: clamp(1.45rem, 2vw, 1.7rem);
   color: var(--white);
-  letter-spacing: 0.08em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
   margin: 0 0 0.5rem 0;
   line-height: 1.2;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .cardSubtitle {
@@ -171,6 +173,17 @@
   background: var(--brand);
   border-color: var(--brand);
   transform: scale(1.05);
+}
+
+/* ─── Dark mode: keep card text/button white over photo overlays ── */
+:root[data-theme='dark'] .cardTitle,
+:root[data-theme='dark'] .cardSubtitle,
+:root[data-theme='dark'] .cardButton {
+  color: #ffffff;
+}
+
+:root[data-theme='dark'] .cardButton {
+  border-color: #ffffff;
 }
 
 /* ─── Responsive ──────────────────────────────────────────── */

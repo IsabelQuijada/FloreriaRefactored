@@ -82,9 +82,9 @@ const NosotrosPage: React.FC = () => {
       </section>
 
       <RibbonFooter
-        title="TU COMPLICE EN MOMENTOS ESPECIALES"
-        subtitle="Nos encanta ayudarte a crear recuerdos inolvidables con flores frescas, entregas puntuales y disenos unicos hechos con amor."
-        buttonLabel="CONTACTANOS"
+        title="TU CÓMPLICE FLORAL"
+        subtitle="Flores frescas, diseños únicos y entregas a tiempo, siempre con amor."
+        buttonLabel="CONTÁCTANOS"
         buttonHref="https://wa.me/523335558928?text=Hola,%20me%20interesan%20sus%20flores"
       />
     </main>

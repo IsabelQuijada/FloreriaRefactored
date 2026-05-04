@@ -74,7 +74,7 @@ const Navbar: React.FC = () => {
       <nav className={styles.navbar}>
         <Link to="/" className={styles.logo}>
           <img src={logoImg} alt="Florería Valeria logo" className={styles.logoImg} />
-          <span>Floreria Valeria</span>
+          <span>Florería Valeria</span>
         </Link>
 
         <ul className={styles.navLinks}>
@@ -149,7 +149,7 @@ const Navbar: React.FC = () => {
               className={styles.signInBtn}
               onClick={() => { navigate('/contacto'); setMenuOpen(false); }}
             >
-              Contactanos
+              Contáctanos
             </button>
             <div className={styles.socialIcons}>
               <a

@@ -39,14 +39,14 @@ export type ContactInfoCard = {
 
 export const ABOUT_PAGE_CONTENT = {
   heroTitle: 'NUESTRA HISTORIA',
-  heroSubtitle: 'Mas de dos decadas creando momentos inolvidables',
-  sectionTitle: 'La Historia de Floreria Valeria',
+  heroSubtitle: 'Más de dos décadas creando momentos inolvidables',
+  sectionTitle: 'La Historia de Florería Valeria',
   intro:
-    'En el corazon de Cocula, Jalisco, nuestra historia comenzo en el ano 2000, movida por el carino a las flores y a nuestra gente. Aidee Camacho, con el apoyo de su familia y muchas ganas de compartir belleza, abrio las puertas de Floreria Valeria.',
+    'En el corazón de Cocula, Jalisco, nuestra historia comenzó en el año 2000, movida por el cariño a las flores y a nuestra gente. Aidee Camacho, con el apoyo de su familia y muchas ganas de compartir belleza, abrió las puertas de Florería Valeria.',
   paragraphs: [
-    'Empezamos en un pequeno local del centro, donde cada arreglo se hacia con dedicacion y mucho amor. Pronto, nuestros clientes se volvieron amigos, y sus historias y celebraciones tambien fueron parte de la nuestra.',
-    'Con el tiempo, la floreria fue creciendo, pero nunca perdimos ese trato cercano y familiar. Cada ramo y cada arreglo lleva un pedacito de nosotros, acompanando bodas, quinceaneras, aniversarios, despedidas y muchos momentos importantes de la vida.',
-    'Hoy, mas de 20 anos despues, Floreria Valeria sigue siendo un negocio familiar y parte de la comunidad. Seguimos trabajando con el mismo carino y compromiso, agradecidos de ser parte de tantos recuerdos y celebraciones.',
+    'Empezamos en un pequeño local del centro, donde cada arreglo se hacía con dedicación y mucho amor. Pronto, nuestros clientes se volvieron amigos, y sus historias y celebraciones también fueron parte de la nuestra.',
+    'Con el tiempo, la florería fue creciendo, pero nunca perdimos ese trato cercano y familiar. Cada ramo y cada arreglo lleva un pedacito de nosotros, acompañando bodas, quinceañeras, aniversarios, despedidas y muchos momentos importantes de la vida.',
+    'Hoy, más de 20 años después, Florería Valeria sigue siendo un negocio familiar y parte de la comunidad. Seguimos trabajando con el mismo cariño y compromiso, agradecidos de ser parte de tantos recuerdos y celebraciones.',
   ],
   imageUrl:
     '/src/assets/testtes.jpeg',
@@ -56,11 +56,11 @@ export const ABOUT_PAGE_CONTENT = {
 
 export const ABOUT_VALUES: AboutValue[] = [
   {
-    title: 'Pasion',
+    title: 'Pasión',
     description:
-      'Cada arreglo floral es creado con amor y dedicacion, reflejando la pasion que sentimos por nuestro arte.',
+      'Cada arreglo floral es creado con amor y dedicación, reflejando la pasión que sentimos por nuestro arte.',
     iconUrl: '/src/assets/pasion.png',
-    iconAlt: 'Pasion',
+    iconAlt: 'Pasión',
   },
   {
     title: 'Calidad',
@@ -72,31 +72,31 @@ export const ABOUT_VALUES: AboutValue[] = [
   {
     title: 'Confianza',
     description:
-      'Mas de 20 anos de experiencia nos respaldan como la floreria de confianza en Cocula y sus alrededores.',
+      'Más de 20 años de experiencia nos respaldan como la florería de confianza en Cocula y sus alrededores.',
     iconUrl: '/src/assets/confianza.png',
     iconAlt: 'Confianza',
   },
   {
-    title: 'Tradicion',
+    title: 'Tradición',
     description:
-      'Honramos las tradiciones florales mexicanas mientras incorporamos tecnicas y estilos contemporaneos.',
+      'Honramos las tradiciones florales mexicanas mientras incorporamos técnicas y estilos contemporáneos.',
     iconUrl: '/src/assets/tradicion.png',
-    iconAlt: 'Tradicion',
+    iconAlt: 'Tradición',
   },
 ];
 
 export const ABOUT_TEAM = {
   title: 'Nuestro Equipo',
   intro:
-    'Detras de cada arreglo floral hay un equipo de artistas apasionados por su trabajo, comprometidos con brindar la mejor experiencia a nuestros clientes.',
+    'Detrás de cada arreglo floral hay un equipo de artistas apasionados por su trabajo, comprometidos con brindar la mejor experiencia a nuestros clientes.',
 } as const;
 
 export const ABOUT_TEAM_MEMBERS: AboutTeamMember[] = [
   {
     name: 'Aidee Camacho',
-    role: 'Fundadora y Disenadora Principal',
+    role: 'Fundadora y Diseñadora Principal',
     description:
-      'Con mas de 20 anos de experiencia, Aidee sigue siendo el corazon creativo de la floreria.',
+      'Con más de 20 años de experiencia, Aidee sigue siendo el corazón creativo de la florería.',
     imageUrl:
      '/src/assets/perfilPicture.png',
     imageAlt: 'Aidee Camacho',
@@ -105,7 +105,7 @@ export const ABOUT_TEAM_MEMBERS: AboutTeamMember[] = [
     name: 'Nuestro Equipo',
     role: 'Artistas Florales',
     description:
-      'Un equipo comprometido con la excelencia y la atencion personalizada en cada proyecto.',
+      'Un equipo comprometido con la excelencia y la atención personalizada en cada proyecto.',
     imageUrl:
       '/src/assets/perfilPicture.jpeg',
     imageAlt: 'Equipo',
@@ -121,11 +121,11 @@ export const CONTACT_PAGE_CONTENT = {
 
 export const CONTACT_QUICK_ITEMS: ContactQuickItem[] = [
   {
-    title: 'Telefonos',
+    title: 'Teléfonos',
     value: '37 51 19 78 12 / 33 22 02 32 70',
     href: 'tel:3751197812',
     iconUrl: 'https://cdn-icons-png.flaticon.com/128/126/126509.png',
-    iconAlt: 'Telefono',
+    iconAlt: 'Teléfono',
     kind: 'phone',
   },
   {
@@ -167,22 +167,22 @@ export const CONTACT_BRANCHES: Branch[] = [
 
 export const CONTACT_INFO_CARDS: ContactInfoCard[] = [
   {
-    title: 'Envio a Domicilio',
+    title: 'Envío a Domicilio',
     description:
-      'Entregamos en todo el municipio de Cocula con el cuidado que tus flores merecen. Horarios de entrega: Lun - Dom: 09:00 AM - 06:00 PM. Costo adicional por envio.',
+      'Entregamos en todo el municipio de Cocula con el cuidado que tus flores merecen. Horarios de entrega: Lun - Dom: 09:00 AM - 06:00 PM. Costo adicional por envío.',
     iconUrl: 'https://cdn-icons-png.flaticon.com/128/2769/2769339.png',
-    iconAlt: 'Envio',
+    iconAlt: 'Envío',
   },
   {
-    title: 'Metodos de Pago',
+    title: 'Métodos de Pago',
     description: 'Aceptamos efectivo y transferencias bancarias. Expedimos factura si la requieres.',
     iconUrl: 'https://cdn-icons-png.flaticon.com/128/1170/1170576.png',
     iconAlt: 'Pago',
   },
   {
-    title: 'Atencion Personalizada',
-    description: 'Nuestro equipo te ayudara a crear el arreglo perfecto para cada ocasion especial.',
+    title: 'Atención Personalizada',
+    description: 'Nuestro equipo te ayudará a crear el arreglo perfecto para cada ocasión especial.',
     iconUrl: 'https://cdn-icons-png.flaticon.com/128/3135/3135715.png',
-    iconAlt: 'Atencion',
+    iconAlt: 'Atención',
   },
 ];

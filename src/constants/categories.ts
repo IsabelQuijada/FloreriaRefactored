@@ -214,9 +214,9 @@ export const CATEGORIES: CategoryMetadata[] = [
       },
       {
         id: 'hermita',
-        name: 'Hermita',
+        name: 'Ermita',
         slug: 'hermita',
-        description: 'Arreglos florales tradicionales para hermitas y lugares de oración, honrando la fe con belleza floral.',
+        description: 'Arreglos florales tradicionales para ermitas y lugares de oración, honrando la fe con belleza floral.',
         folder: 'hermita'
       }
     ]

@@ -58,7 +58,7 @@ export const OCCASIONS: Occasion[] = [
   },
   {
     id: 8,
-    title: 'PARA RECORDAR Y...',
+    title: 'PARA RECORDAR Y DESPEDIR',
     subtitle: 'Un último homenaje con amor',
     image: '/src/assets/paraRecordarYHonrar.avif',
     categorySlug: 'galeria-funeraria'

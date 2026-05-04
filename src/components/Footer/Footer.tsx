@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
           <div className={styles.col}>
             <h4 className={styles.colTitle}>Sobre Nosotros</h4>
             <ul className={styles.colLinks}>
-              <li><Link to="/nosotros">Quienes Somos</Link></li>
+              <li><Link to="/nosotros">Quiénes Somos</Link></li>
               <li><Link to="/nosotros">Nuestra Historia</Link></li>
             </ul>
           </div>

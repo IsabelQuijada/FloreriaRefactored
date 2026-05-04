@@ -45,7 +45,7 @@ export const GIRASOLES_DESCRIPTIONS: Record<string, string> = {
   'ramo-girasoles1': 'Ramo vibrante de girasoles frescos que irradia alegría y vitalidad positiva.',
   'ramo-girasoles2': 'Diseño floral con girasoles que aporta calidez y luminosidad al ambiente.',
   'ramo-girasoles3': 'Ramo de girasoles con presentación tradicional y flores de campo frescas.',
-  'ramo-girasoles4': 'Combinación única de girasoles que simboliza felicidad y energia positiva.'
+  'ramo-girasoles4': 'Combinación única de girasoles que simboliza felicidad y energía positiva.'
 };
 
 // Ramos Clásicos Descriptions - Ramo Mix
