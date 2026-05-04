@@ -1,4 +1,5 @@
 import React from 'react';
+import { TbTruckDelivery, TbCreditCard, TbHeadset } from 'react-icons/tb';
 import RibbonFooter from '../../components/RibbonFooter/RibbonFooter';
 import PageHero from '../../components/ui/PageHero/PageHero';
 import {
@@ -8,6 +9,12 @@ import {
   CONTACT_QUICK_ITEMS,
 } from '../../constants/pagesContent';
 import styles from './ContactoPage.module.css';
+
+const INFO_ICON_MAP: Record<string, React.ReactElement> = {
+  'Envío':    <TbTruckDelivery size={28} />,
+  'Pago':     <TbCreditCard size={28} />,
+  'Atención': <TbHeadset size={28} />,
+};
 
 const ContactoPage: React.FC = () => {
   return (
@@ -88,7 +95,9 @@ const ContactoPage: React.FC = () => {
           <div className={styles.infoGrid}>
             {CONTACT_INFO_CARDS.map((card) => (
               <article key={card.title} className={styles.infoCard}>
-                <img src={card.iconUrl} alt={card.iconAlt} loading="lazy" className={styles.infoIcon} />
+                <div className={styles.infoIcon} aria-label={card.iconAlt}>
+                  {INFO_ICON_MAP[card.iconAlt]}
+                </div>
                 <h3>{card.title}</h3>
                 <p>{card.description}</p>
               </article>

@@ -159,6 +159,13 @@
 }
 
 /* ── Responsive ── */
+@media (max-width: 480px) {
+  .name {
+    font-size: 0.7rem;
+    white-space: nowrap;
+  }
+}
+
 @media (max-width: 640px) {
   .card.snap {
     flex: 1 1 auto;

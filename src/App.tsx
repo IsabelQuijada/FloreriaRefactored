@@ -11,10 +11,15 @@ import ProductsPage from './pages/ProductsPage/ProductsPage';
 import NosotrosPage from './pages/NosotrosPage/NosotrosPage';
 import ContactoPage from './pages/ContactoPage/ContactoPage';
 import WhatsAppButton from './components/WhatsAppButton/WhatsAppButton';
+import CookieBanner from './components/CookieBanner/CookieBanner';
+import { Analytics } from './analytics/events';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
-  useEffect(() => { window.scrollTo(0, 0); }, [pathname]);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+    Analytics.pageView(pathname, document.title);
+  }, [pathname]);
   return null;
 }
 
@@ -42,6 +47,7 @@ function App() {
       </Routes>
       <Footer />
       <WhatsAppButton />
+      <CookieBanner />
     </>
   );
 }

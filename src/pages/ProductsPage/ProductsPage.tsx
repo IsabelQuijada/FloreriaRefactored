@@ -1,10 +1,11 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { useParams, useSearchParams } from 'react-router-dom';
 import styles from './ProductsPage.module.css';
 import { getCategoryBySlug, getSubcategories } from '../../constants/categories';
 import CategoryFilter from '../../components/CategoryFilter/CategoryFilter';
 import ProductGrid from '../../components/ProductGrid/ProductGrid';
 import PageHero from '../../components/ui/PageHero/PageHero';
+import { Analytics } from '../../analytics/events';
 
 const ProductsPage: React.FC = () => {
   const { categorySlug } = useParams<{ categorySlug: string }>();
@@ -23,8 +24,15 @@ const ProductsPage: React.FC = () => {
     [categorySlug]
   );
 
+  useEffect(() => {
+    if (category) {
+      Analytics.viewCategory(category.name, categorySlug!);
+    }
+  }, [categorySlug, category]);
+
   const handleFilterChange = (subcategorySlug: string) => {
     setSelectedSubcategory(subcategorySlug);
+    Analytics.filterSubcategory(categorySlug!, subcategorySlug);
     if (subcategorySlug === 'all') {
       searchParams.delete('filter');
     } else {

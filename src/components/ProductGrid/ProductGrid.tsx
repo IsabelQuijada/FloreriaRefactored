@@ -5,6 +5,7 @@ import type { Product } from '../../constants/productsData';
 import { getCategoryBySlug } from '../../constants/categories';
 import ProductCard from '../product/ProductCard/ProductCard';
 import ProductModal from '../product/ProductModal/ProductModal';
+import { Analytics } from '../../analytics/events';
 
 interface Props {
   categorySlug: string;
@@ -30,7 +31,10 @@ const ProductGrid: React.FC<Props> = ({ categorySlug, subcategoryFilter }) => {
     [selectedProduct, products]
   );
 
-  const handleOpenModal = (product: Product) => setSelectedProduct(product);
+  const handleOpenModal = (product: Product) => {
+    setSelectedProduct(product);
+    Analytics.viewProduct(product.id, product.name, categorySlug);
+  };
 
   const handleCloseModal = () => setSelectedProduct(null);
 
@@ -68,6 +72,9 @@ const ProductGrid: React.FC<Props> = ({ categorySlug, subcategoryFilter }) => {
                     height: product.height,
                   }}
                   onClick={() => handleOpenModal(product)}
+                  onContactClick={() =>
+                    Analytics.contactProduct(product.id, product.name, categorySlug)
+                  }
                 />
               );
             })}

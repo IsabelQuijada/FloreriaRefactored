@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import styles from './Ocasiones.module.css';
 import { OCCASIONS } from '../../constants/occasions';
 import SectionHeader from '../ui/SectionHeader/SectionHeader';
+import { Analytics } from '../../analytics/events';
 
 const Ocasiones: React.FC = () => {
   return (
@@ -19,6 +20,7 @@ const Ocasiones: React.FC = () => {
               key={occasion.id}
               to={`/productos/${occasion.categorySlug}`}
               className={styles.card}
+              onClick={() => Analytics.clickOccasion(occasion.title, occasion.categorySlug)}
             >
               <div
                 className={styles.cardImage}

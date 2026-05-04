@@ -15,10 +15,11 @@ export interface ProductCardData {
 interface Props {
   product: ProductCardData;
   onClick?: () => void;
+  onContactClick?: () => void;
   snap?: boolean;
 }
 
-const ProductCard: React.FC<Props> = ({ product, onClick, snap }) => {
+const ProductCard: React.FC<Props> = ({ product, onClick, onContactClick, snap }) => {
   const handleClick = (e: React.MouseEvent) => {
     if ((e.target as HTMLElement).closest(`.${styles.contactBtn}`)) return;
     onClick?.();
@@ -55,7 +56,7 @@ const ProductCard: React.FC<Props> = ({ product, onClick, snap }) => {
           target="_blank"
           rel="noopener noreferrer"
           className={styles.contactBtn}
-          onClick={(e) => e.stopPropagation()}
+          onClick={(e) => { e.stopPropagation(); onContactClick?.(); }}
         >
           CONTÁCTANOS
         </a>
