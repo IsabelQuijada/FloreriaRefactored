@@ -37,6 +37,14 @@ export type ContactInfoCard = {
   iconAlt: string;
 };
 
+const founderImage = new URL('../assets/testtes.jpeg', import.meta.url).href;
+const passionIcon = new URL('../assets/pasion.png', import.meta.url).href;
+const qualityIcon = new URL('../assets/calidad.png', import.meta.url).href;
+const trustIcon = new URL('../assets/confianza.png', import.meta.url).href;
+const traditionIcon = new URL('../assets/tradicion.png', import.meta.url).href;
+const profileImagePng = new URL('../assets/perfilPicture.png', import.meta.url).href;
+const profileImageJpeg = new URL('../assets/perfilPicture.jpeg', import.meta.url).href;
+
 export const ABOUT_PAGE_CONTENT = {
   heroTitle: 'NUESTRA HISTORIA',
   heroSubtitle: 'Más de dos décadas creando momentos inolvidables',
@@ -48,8 +56,7 @@ export const ABOUT_PAGE_CONTENT = {
     'Con el tiempo, la florería fue creciendo, pero nunca perdimos ese trato cercano y familiar. Cada ramo y cada arreglo lleva un pedacito de nosotros, acompañando bodas, quinceañeras, aniversarios, despedidas y muchos momentos importantes de la vida.',
     'Hoy, más de 20 años después, Florería Valeria sigue siendo un negocio familiar y parte de la comunidad. Seguimos trabajando con el mismo cariño y compromiso, agradecidos de ser parte de tantos recuerdos y celebraciones.',
   ],
-  imageUrl:
-    '/src/assets/testtes.jpeg',
+  imageUrl: founderImage,
   imageAlt: 'Floreria Valeria - Fundadora',
   valuesTitle: 'Nuestros Valores',
 } as const;
@@ -59,28 +66,28 @@ export const ABOUT_VALUES: AboutValue[] = [
     title: 'Pasión',
     description:
       'Cada arreglo floral es creado con amor y dedicación, reflejando la pasión que sentimos por nuestro arte.',
-    iconUrl: '/src/assets/pasion.png',
+    iconUrl: passionIcon,
     iconAlt: 'Pasión',
   },
   {
     title: 'Calidad',
     description:
       'Seleccionamos cuidadosamente las mejores flores para garantizar la frescura y belleza de cada creacion.',
-    iconUrl: '/src/assets/calidad.png',
+    iconUrl: qualityIcon,
     iconAlt: 'Calidad',
   },
   {
     title: 'Confianza',
     description:
       'Más de 20 años de experiencia nos respaldan como la florería de confianza en Cocula y sus alrededores.',
-    iconUrl: '/src/assets/confianza.png',
+    iconUrl: trustIcon,
     iconAlt: 'Confianza',
   },
   {
     title: 'Tradición',
     description:
       'Honramos las tradiciones florales mexicanas mientras incorporamos técnicas y estilos contemporáneos.',
-    iconUrl: '/src/assets/tradicion.png',
+    iconUrl: traditionIcon,
     iconAlt: 'Tradición',
   },
 ];
@@ -97,8 +104,7 @@ export const ABOUT_TEAM_MEMBERS: AboutTeamMember[] = [
     role: 'Fundadora y Diseñadora Principal',
     description:
       'Con más de 20 años de experiencia, Aidee sigue siendo el corazón creativo de la florería.',
-    imageUrl:
-     '/src/assets/perfilPicture.png',
+    imageUrl: profileImagePng,
     imageAlt: 'Aidee Camacho',
   },
   {
@@ -106,8 +112,7 @@ export const ABOUT_TEAM_MEMBERS: AboutTeamMember[] = [
     role: 'Artistas Florales',
     description:
       'Un equipo comprometido con la excelencia y la atención personalizada en cada proyecto.',
-    imageUrl:
-      '/src/assets/perfilPicture.jpeg',
+    imageUrl: profileImageJpeg,
     imageAlt: 'Equipo',
   },
 ];
