@@ -22,13 +22,6 @@
   gap: 0.35rem;
 }
 
-.eyebrow {
-  font-family: var(--font-script);
-  font-size: clamp(1rem, 1.6vw, 1.3rem);
-  color: var(--accent);
-  letter-spacing: 0.02em;
-}
-
 .title {
   font-family: var(--font-display);
   font-weight: 800;
@@ -42,7 +35,7 @@
 
 .subtitle {
   font-family: var(--font-sans);
-  font-size: 0.95rem;
+  font-size: 1.25rem;
   color: var(--text-muted);
   margin-top: 0.25rem;
   letter-spacing: 0.02em;
@@ -129,15 +122,23 @@
     margin-bottom: 2.5rem;
   }
 
-  .carouselWrapper {
-    padding: 0 0.5rem;
-    gap: 0.4rem;
+  /* Hide carousel arrows on mobile */
+  .arrow {
+    display: none;
   }
 
-  .arrow {
-    width: 32px;
-    height: 32px;
-    font-size: 0.72rem;
-    flex-shrink: 0;
+  /* Convert carousel to 2-column grid */
+  .carouselWrapper {
+    padding: 0 1rem;
+    gap: 0;
+  }
+
+  .viewport {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    overflow-x: visible;
+    scroll-snap-type: none;
+    padding: 0;
   }
 }

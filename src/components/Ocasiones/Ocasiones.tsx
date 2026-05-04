@@ -1,36 +1,37 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import styles from './Ocasiones.module.css';
 import { OCCASIONS } from '../../constants/occasions';
+import SectionHeader from '../ui/SectionHeader/SectionHeader';
 
 const Ocasiones: React.FC = () => {
   return (
-    <section className={styles.section}>
+    <section id="ocasiones" className={styles.section}>
       <div className={styles.container}>
-        {/* Header */}
-        <div className={styles.header}>
-          <h2 className={styles.title}>OCASIONES ESPECIALES</h2>
-          <p className={styles.subtitle}>
-            Encuentra el arreglo perfecto para cada momento especial
-          </p>
-          <span className={styles.divider}></span>
-        </div>
+        <SectionHeader
+          title="OCASIONES ESPECIALES"
+          subtitle="Encuentra el arreglo perfecto para cada momento especial"
+        />
 
-        {/* Grid de ocasiones */}
         <div className={styles.grid}>
           {OCCASIONS.map((occasion) => (
-            <div key={occasion.id} className={styles.card}>
-              <div 
-                className={styles.cardImage} 
+            <Link
+              key={occasion.id}
+              to={`/productos/${occasion.categorySlug}`}
+              className={styles.card}
+            >
+              <div
+                className={styles.cardImage}
                 style={{ backgroundImage: `url(${occasion.image})` }}
               >
-                <div className={styles.overlay}></div>
+                <div className={styles.overlay} />
               </div>
               <div className={styles.cardContent}>
                 <h3 className={styles.cardTitle}>{occasion.title}</h3>
                 <p className={styles.cardSubtitle}>{occasion.subtitle}</p>
-                <button className={styles.cardButton}>VER GALERÍA</button>
+                <span className={styles.cardButton}>VER GALERÍA</span>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
       </div>

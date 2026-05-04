@@ -50,14 +50,14 @@
 /* ── Subtitle ── */
 .subtitle {
   font-family: var(--font-sans);
-  font-size: clamp(0.95rem, 1.1vw, 1.05rem);
+  font-size: 1.25rem;
   color: var(--text-body);
   margin: 0 0 1.5rem 0;
   line-height: 1.6;
   max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 /* ── CTA Button ── */
@@ -65,12 +65,16 @@
   background: var(--brand);
   color: var(--white);
   border: none;
-  padding: 0.9rem 2.8rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.15rem 3.2rem;
   font-family: var(--font-sans);
-  font-size: 0.85rem;
+  font-size: 1.15rem;
   font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;
+  text-decoration: none;
   border-radius: var(--radius-pill);
   cursor: pointer;
   transition: 

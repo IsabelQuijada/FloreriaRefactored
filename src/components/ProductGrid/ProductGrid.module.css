@@ -1,0 +1,144 @@
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #666;
+  font-size: 1.125rem;
+}
+
+.info {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.info h2 {
+  font-size: 1.75rem;
+  color: #2d2d2d;
+  margin-bottom: 1rem;
+}
+
+.info p {
+  font-size: 1.125rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.note {
+  background-color: #fff4e6;
+  border-left: 4px solid #d4a574;
+  padding: 1rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+  font-size: 1rem !important;
+  color: #8b7355 !important;
+}
+
+.steps {
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.steps li {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+  color: #666;
+}
+
+.steps code {
+  background-color: #f5f5f5;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+  color: #d14;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.count {
+  text-align: center;
+  padding: 1rem 0;
+  color: #666;
+  font-size: 1rem;
+}
+
+.emptyState {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #999;
+  font-size: 1.125rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .container {
+    padding: 2rem 1rem;
+  }
+
+  .grid {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+}
+/* Dark Mode */
+:root[data-theme='dark'] .container {
+  background-color: transparent;
+}
+
+:root[data-theme='dark'] .loading,
+:root[data-theme='dark'] .emptyState {
+  color: var(--text-body);
+}
+
+:root[data-theme='dark'] .count {
+  color: var(--text-body);
+}
+
+:root[data-theme='dark'] .info {
+  background-color: var(--bg-cream);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+:root[data-theme='dark'] .info h2 {
+  color: var(--text-dark);
+}
+
+:root[data-theme='dark'] .info p {
+  color: var(--text-body);
+}
+
+:root[data-theme='dark'] .note {
+  background-color: rgba(244, 166, 120, 0.1);
+  border-left-color: var(--accent);
+  color: var(--accent);
+}
+
+:root[data-theme='dark'] .steps li {
+  color: var(--text-body);
+}
+
+:root[data-theme='dark'] .steps code {
+  background-color: var(--bg-warm);
+  color: var(--accent);
+}

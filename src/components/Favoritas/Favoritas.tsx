@@ -1,14 +1,19 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import styles from './Favoritas.module.css';
-import { FAVORITES } from '../../constants/products';
-import type { Product } from '../../constants/products';
-import ProductCard from './ProductCard';
-import ProductModal from './ProductModal';
+import { getRandomFavoritas, getFavoritasCount } from '../../constants/favoritasProducts';
+import type { FavoritaProduct } from '../../constants/favoritasProducts';
+import ProductCard from '../product/ProductCard/ProductCard';
+import ProductModal from '../product/ProductModal/ProductModal';
+import SectionHeader from '../ui/SectionHeader/SectionHeader';
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 
+const WHATSAPP_URL = 'https://wa.me/523322023270';
+
 const Favoritas: React.FC = () => {
-  const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
+  const FAVORITES = useMemo(() => getRandomFavoritas(getFavoritasCount()), []);
+
   const [selectedIndex, setSelectedIndex] = useState(0);
+  const [selectedProduct, setSelectedProduct] = useState<FavoritaProduct | null>(null);
   const viewportRef = useRef<HTMLDivElement>(null);
 
   /* ── Carousel scroll helpers ── */
@@ -28,7 +33,7 @@ const Favoritas: React.FC = () => {
     viewportRef.current?.scrollBy({ left: getScrollStep(), behavior: 'smooth' });
 
   /* ── Modal helpers ── */
-  const openModal = (product: Product) => {
+  const openModal = (product: FavoritaProduct) => {
     setSelectedIndex(FAVORITES.findIndex((p) => p.id === product.id));
     setSelectedProduct(product);
   };
@@ -48,16 +53,12 @@ const Favoritas: React.FC = () => {
   };
 
   return (
-    <section className={styles.section}>
-      {/* ── Section header ── */}
-      <div className={styles.header}>
-        <p className={styles.eyebrow}>colección destacada</p>
-        <h2 className={styles.title}>FAVORITAS</h2>
-        <p className={styles.subtitle}>Descubre nuestras flores más populares</p>
-        <span className={styles.divider} aria-hidden="true" />
-      </div>
+    <section id="favoritas" className={styles.section}>
+      <SectionHeader
+        title="FAVORITAS"
+        subtitle="Descubre nuestras flores más populares"
+      />
 
-      {/* ── Carousel ── */}
       <div className={styles.carouselWrapper}>
         <button
           className={`${styles.arrow} ${styles.arrowLeft}`}
@@ -71,7 +72,15 @@ const Favoritas: React.FC = () => {
           {FAVORITES.map((product) => (
             <ProductCard
               key={product.id}
-              product={product}
+              snap
+              product={{
+                id: product.id,
+                name: product.name,
+                image: product.image,
+                badge: product.category,
+                description: product.shortDescription,
+                whatsappUrl: WHATSAPP_URL,
+              }}
               onClick={() => openModal(product)}
             />
           ))}
@@ -86,15 +95,18 @@ const Favoritas: React.FC = () => {
         </button>
       </div>
 
-      {/* ── Quick-view modal ── */}
-      {selectedProduct && (
-        <ProductModal
-          product={selectedProduct}
-          onClose={closeModal}
-          onPrev={goModalPrev}
-          onNext={goModalNext}
-        />
-      )}
+      <ProductModal
+        product={selectedProduct ? {
+          name: selectedProduct.name,
+          image: selectedProduct.image,
+          badge: selectedProduct.category,
+          description: selectedProduct.description,
+          whatsappUrl: WHATSAPP_URL,
+        } : null}
+        onClose={closeModal}
+        onPrev={goModalPrev}
+        onNext={goModalNext}
+      />
     </section>
   );
 };

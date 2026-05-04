@@ -1,0 +1,111 @@
+.filterSection {
+  background-color: var(--white);
+  border-bottom: 1px solid var(--border-soft);
+  padding: var(--spacing-lg) 0;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-lg);
+}
+
+.filterButtons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.filterBtn {
+  padding: 0.75rem var(--spacing-lg);
+  border: 2px solid var(--filter-border);
+  background-color: var(--filter-bg);
+  color: var(--brand);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  white-space: nowrap;
+}
+
+.filterBtn:hover {
+  border-color: var(--brand);
+  color: var(--brand-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(214, 77, 122, 0.2);
+  background-color: var(--filter-hover-bg);
+}
+
+.filterBtn.active {
+  background: var(--gradient-brand);
+  border-color: var(--filter-active-border);
+  color: var(--white);
+  box-shadow: 0 4px 12px rgba(214, 77, 122, 0.3);
+}
+
+.filterBtn.active:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(214, 77, 122, 0.4);
+  background: var(--gradient-brand-hover);
+}
+
+@media (max-width: 640px) {
+  .filterButtons {
+    gap: var(--spacing-sm);
+  }
+
+  .filterBtn {
+    padding: 0.625rem 1.25rem;
+    font-size: 0.875rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .filterButtons {
+    justify-content: flex-start;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: var(--spacing-sm);
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .filterBtn {
+    flex-shrink: 0;
+  }
+}
+
+/* Dark Mode */
+:root[data-theme='dark'] .filterSection {
+  background-color: var(--bg-cream);
+  border-bottom: 1px solid var(--border-soft);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+:root[data-theme='dark'] .filterBtn {
+  border-color: var(--border-soft);
+  background-color: var(--bg-warm);
+  color: var(--text-body);
+}
+
+:root[data-theme='dark'] .filterBtn:hover {
+  border-color: var(--brand);
+  color: var(--brand);
+  box-shadow: 0 4px 8px rgba(214, 77, 122, 0.3);
+}
+
+:root[data-theme='dark'] .filterBtn.active {
+  background: var(--gradient-brand);
+  border-color: var(--brand);
+  color: var(--white);
+  box-shadow: 0 4px 12px rgba(214, 77, 122, 0.4);
+}
+
+:root[data-theme='dark'] .filterBtn.active:hover {
+  box-shadow: 0 6px 16px rgba(214, 77, 122, 0.5);
+}

@@ -1,7 +1,6 @@
 /* ─── Footer shell ──────────────────────────────────────────── */
 .footer {
   background: var(--bg-ribbon);
-  border-radius: 36px 36px 0 0;
   color: var(--text-mid);
   font-family: var(--font-sans);
   position: relative;
@@ -38,11 +37,11 @@
 /* ─── Column ────────────────────────────────────────────────── */
 .colTitle {
   font-family: var(--font-sans);
-  font-size: 0.7rem;
+  font-size: 0.98rem;
   font-weight: 600;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--brand);
   margin-bottom: 18px;
   position: relative;
   display: inline-block;
@@ -68,15 +67,15 @@
 }
 
 .colLinks li a {
-  font-size: 0.88rem;
+  font-size: 0.875rem;
   color: var(--text-muted);
   transition: color var(--transition-base), transform var(--transition-base);
   display: inline-block;
-  line-height: 1.4;
+  line-height: 1.55;
 }
 
 .colLinks li a:hover {
-  color: var(--accent);
+  color: var(--brand);
   transform: translateX(5px);
 }
 
@@ -92,12 +91,12 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 0.88rem;
+  font-size: 0.875rem;
   color: var(--text-muted);
 }
 
 .contactIcon {
-  color: var(--accent);
+  color: var(--brand);
   flex-shrink: 0;
 }
 
@@ -126,7 +125,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--accent);
+  color: var(--brand);
   transition: background var(--transition-base), border-color var(--transition-base), transform var(--transition-base), color var(--transition-base);
 }
 
@@ -138,18 +137,18 @@
 }
 
 .socialCaption {
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   color: var(--text-light);
-  line-height: 1.4;
-  max-width: 130px;
+  line-height: 1.55;
+  max-width: 150px;
 }
 
 /* ─── Bottom bar ────────────────────────────────────────────── */
 .bottomBar {
   border-top: 1px solid var(--border-cream);
-  padding: 20px 40px;
+  padding: 22px 40px;
   text-align: center;
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   color: var(--text-light);
   letter-spacing: 0.02em;
 }
@@ -186,7 +185,7 @@
   }
 
   .bottomBar {
-    padding: 16px 24px;
-    font-size: 0.74rem;
+    padding: 18px 24px;
+    font-size: 0.78rem;
   }
 }

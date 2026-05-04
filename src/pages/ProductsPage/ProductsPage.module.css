@@ -1,0 +1,39 @@
+.page {
+  min-height: 100vh;
+  background-color: var(--bg-warm);
+  padding-top: var(--header-total-height);
+}
+
+.errorContainer {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xl);
+  text-align: center;
+}
+
+.errorContainer h1 {
+  font-size: 2rem;
+  color: var(--text-dark);
+  margin-bottom: var(--spacing-md);
+}
+
+.errorContainer p {
+  font-size: 1.125rem;
+  color: var(--text-muted);
+}
+
+/* Dark Mode */
+:root[data-theme='dark'] .page {
+  background-color: var(--bg-warm);
+}
+
+:root[data-theme='dark'] .errorContainer h1 {
+  color: var(--text-dark);
+}
+
+:root[data-theme='dark'] .errorContainer p {
+  color: var(--text-body);
+}

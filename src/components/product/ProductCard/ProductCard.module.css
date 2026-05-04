@@ -1,19 +1,24 @@
 /* ──────────────────────────────────────────────
-   ProductCard
+   ProductCard — componente unificado
 ────────────────────────────────────────────── */
 .card {
-  flex: 0 0 272px;
-  width: 272px;
+  width: 100%;
   background: var(--white);
-  border-radius: 18px;
+  border-radius: var(--radius-2xl);
   box-shadow: 0 2px 18px rgba(123, 79, 114, 0.08);
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  scroll-snap-align: start;
   transition:
-    box-shadow 0.35s ease,
-    transform 0.35s ease;
+    box-shadow var(--transition-slow),
+    transform var(--transition-slow);
+}
+
+/* Modo carrusel: ancho fijo y snap */
+.card.snap {
+  flex: 0 0 272px;
+  width: 272px;
+  scroll-snap-align: start;
 }
 
 .card:hover {
@@ -26,7 +31,6 @@
   position: relative;
   aspect-ratio: 4 / 5;
   overflow: hidden;
-  cursor: pointer;
   background: var(--bg-cream);
   outline: none;
 }
@@ -44,7 +48,7 @@
   transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.imageWrap:hover .image {
+.card:hover .image {
   transform: scale(1.07);
 }
 
@@ -58,15 +62,16 @@
   justify-content: center;
   opacity: 0;
   transition: opacity 0.3s ease;
+  pointer-events: none;
 }
 
-.imageWrap:hover .overlay {
+.card:hover .overlay {
   opacity: 1;
 }
 
 .overlayText {
   font-family: var(--font-sans);
-  font-size: 0.68rem;
+  font-size: 0.78rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   color: var(--white);
@@ -84,7 +89,7 @@
   top: 0.75rem;
   left: 0.75rem;
   font-family: var(--font-sans);
-  font-size: 0.6rem;
+  font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -95,6 +100,7 @@
   backdrop-filter: blur(6px);
   line-height: 1.5;
   white-space: nowrap;
+  z-index: 2;
 }
 
 /* ── Body ── */
@@ -112,10 +118,11 @@
   font-weight: 700;
   color: var(--brand);
   line-height: 1.3;
+  margin: 0;
 }
 
 .description {
-  font-size: 0.81rem;
+  font-size: 0.85rem;
   color: var(--text-muted);
   line-height: 1.55;
   flex: 1;
@@ -123,17 +130,18 @@
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  margin: 0;
 }
 
 .contactBtn {
   display: block;
   text-align: center;
-  margin-top: 0.8rem;
-  padding: 0.72rem 1rem;
+  margin-top: var(--spacing-sm);
+  padding: 0.72rem var(--spacing-md);
   background: var(--brand);
   color: var(--white);
   font-family: var(--font-sans);
-  font-size: 0.72rem;
+  font-size: 0.875rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   border-radius: var(--radius-pill);
@@ -150,18 +158,56 @@
   transform: translateY(-1px);
 }
 
-/* ── Responsive widths ── */
-@media (max-width: 1023px) {
-  .card {
-    flex: 0 0 calc(50vw - 5.5rem);
-    width: calc(50vw - 5.5rem);
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .card.snap {
+    flex: 1 1 auto;
+    width: 100%;
+  }
+
+  .body {
+    padding: 0.9rem var(--spacing-md) 1.1rem;
+  }
+
+  .name {
+    font-size: 0.95rem;
+  }
+
+  .description {
+    font-size: 0.82rem;
+    -webkit-line-clamp: 2;
+  }
+
+  .contactBtn {
+    font-size: 0.82rem;
+    padding: 0.6rem 0.8rem;
   }
 }
 
-@media (max-width: 639px) {
-  .card {
-    /* ~72 vw: next card's edge peeks through, signalling horizontal scroll */
-    flex: 0 0 72vw;
-    width: 72vw;
-  }
+/* ── Dark Mode ── */
+:root[data-theme='dark'] .card {
+  background: var(--bg-cream);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+:root[data-theme='dark'] .card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+:root[data-theme='dark'] .imageWrap {
+  background: var(--bg-warm);
+}
+
+:root[data-theme='dark'] .badge {
+  background: rgba(255, 255, 255, 0.15);
+  color: var(--text-light);
+  backdrop-filter: blur(10px);
+}
+
+:root[data-theme='dark'] .name {
+  color: var(--text-dark);
+}
+
+:root[data-theme='dark'] .description {
+  color: var(--text-body);
 }

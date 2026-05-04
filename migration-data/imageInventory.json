@@ -1,0 +1,2706 @@
+{
+  "timestamp": "2026-05-01T18:18:47.570Z",
+  "categories": {
+    "bodas-de-ensueno": {
+      "name": "Bodas de Ensueño",
+      "folder": "bodasDeEnsueno",
+      "images": [
+        {
+          "filename": "arreglo-centro-mesa1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa1.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa1.webp",
+          "size": 251782,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa10.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa10.webp",
+          "size": 152180,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa11.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa11.webp",
+          "size": 222720,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa2.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa2.webp",
+          "size": 305144,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa3.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa3.webp",
+          "size": 282042,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa4.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa4.webp",
+          "size": 296756,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa5.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa5.webp",
+          "size": 314328,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa6.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa6.webp",
+          "size": 269090,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa7.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa7.webp",
+          "size": 293892,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa8.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa8.webp",
+          "size": 340332,
+          "ext": ".webp"
+        },
+        {
+          "filename": "arreglo-centro-mesa9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/arreglosCentrosDeMesa/arreglo-centro-mesa9.webp",
+          "relativePath": "arreglosCentrosDeMesa/arreglo-centro-mesa9.webp",
+          "size": 246616,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia1.webp",
+          "relativePath": "ramosNovia/ramo-novia1.webp",
+          "size": 119998,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia2.webp",
+          "relativePath": "ramosNovia/ramo-novia2.webp",
+          "size": 101322,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia3.webp",
+          "relativePath": "ramosNovia/ramo-novia3.webp",
+          "size": 145250,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia4.webp",
+          "relativePath": "ramosNovia/ramo-novia4.webp",
+          "size": 206534,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia5.webp",
+          "relativePath": "ramosNovia/ramo-novia5.webp",
+          "size": 126296,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia6.webp",
+          "relativePath": "ramosNovia/ramo-novia6.webp",
+          "size": 155772,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia7.webp",
+          "relativePath": "ramosNovia/ramo-novia7.webp",
+          "size": 180296,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-novia8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/ramosNovia/ramo-novia8.webp",
+          "relativePath": "ramosNovia/ramo-novia8.webp",
+          "size": 223132,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 1.webp",
+          "relativePath": "templo/Templo 1.webp",
+          "size": 371458,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 10.webp",
+          "relativePath": "templo/Templo 10.webp",
+          "size": 192446,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 2.webp",
+          "relativePath": "templo/Templo 2.webp",
+          "size": 326914,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 3.webp",
+          "relativePath": "templo/Templo 3.webp",
+          "size": 329502,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 4.1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 4.1.webp",
+          "relativePath": "templo/Templo 4.1.webp",
+          "size": 245480,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 4.webp",
+          "relativePath": "templo/Templo 4.webp",
+          "size": 152126,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 5.webp",
+          "relativePath": "templo/Templo 5.webp",
+          "size": 393010,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 6.webp",
+          "relativePath": "templo/Templo 6.webp",
+          "size": 181588,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 7.webp",
+          "relativePath": "templo/Templo 7.webp",
+          "size": 156618,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 8.webp",
+          "relativePath": "templo/Templo 8.webp",
+          "size": 249366,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Templo 9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/bodasDeEnsueno/templo/Templo 9.webp",
+          "relativePath": "templo/Templo 9.webp",
+          "size": 200774,
+          "ext": ".webp"
+        }
+      ],
+      "count": 30,
+      "totalSize": 7032764
+    },
+    "ramos-elegantes": {
+      "name": "Ramos Elegantes",
+      "folder": "ramosElegantes",
+      "images": [
+        {
+          "filename": "Ramo1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo1.webp",
+          "relativePath": "Ramo1.webp",
+          "size": 136496,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo10.webp",
+          "relativePath": "Ramo10.webp",
+          "size": 172576,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo11.webp",
+          "relativePath": "Ramo11.webp",
+          "size": 189896,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo12.webp",
+          "relativePath": "Ramo12.webp",
+          "size": 149744,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo13.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo13.webp",
+          "relativePath": "Ramo13.webp",
+          "size": 148438,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo14.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo14.webp",
+          "relativePath": "Ramo14.webp",
+          "size": 181628,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo15.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo15.webp",
+          "relativePath": "Ramo15.webp",
+          "size": 176076,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo2.webp",
+          "relativePath": "Ramo2.webp",
+          "size": 132906,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo3.webp",
+          "relativePath": "Ramo3.webp",
+          "size": 197256,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo4.webp",
+          "relativePath": "Ramo4.webp",
+          "size": 152722,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo5.webp",
+          "relativePath": "Ramo5.webp",
+          "size": 236726,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo6.webp",
+          "relativePath": "Ramo6.webp",
+          "size": 197248,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo7.webp",
+          "relativePath": "Ramo7.webp",
+          "size": 180026,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo8.webp",
+          "relativePath": "Ramo8.webp",
+          "size": 148736,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/Ramo9.webp",
+          "relativePath": "Ramo9.webp",
+          "size": 135206,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Ramo10_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo10_large_q85.jpg",
+          "relativePath": "optimized/Ramo10_large_q85.jpg",
+          "size": 84983,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo10_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo10_medium_q75.jpg",
+          "relativePath": "optimized/Ramo10_medium_q75.jpg",
+          "size": 40884,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo10_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo10_small_q70.jpg",
+          "relativePath": "optimized/Ramo10_small_q70.jpg",
+          "size": 19202,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo11_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo11_large_q85.jpg",
+          "relativePath": "optimized/Ramo11_large_q85.jpg",
+          "size": 82600,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo11_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo11_medium_q75.jpg",
+          "relativePath": "optimized/Ramo11_medium_q75.jpg",
+          "size": 40844,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo11_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo11_small_q70.jpg",
+          "relativePath": "optimized/Ramo11_small_q70.jpg",
+          "size": 19783,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo12_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo12_large_q85.jpg",
+          "relativePath": "optimized/Ramo12_large_q85.jpg",
+          "size": 69223,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo12_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo12_medium_q75.jpg",
+          "relativePath": "optimized/Ramo12_medium_q75.jpg",
+          "size": 33978,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo12_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo12_small_q70.jpg",
+          "relativePath": "optimized/Ramo12_small_q70.jpg",
+          "size": 16297,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo13_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo13_large_q85.jpg",
+          "relativePath": "optimized/Ramo13_large_q85.jpg",
+          "size": 77106,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo13_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo13_medium_q75.jpg",
+          "relativePath": "optimized/Ramo13_medium_q75.jpg",
+          "size": 37973,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo13_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo13_small_q70.jpg",
+          "relativePath": "optimized/Ramo13_small_q70.jpg",
+          "size": 18475,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo14_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo14_large_q85.jpg",
+          "relativePath": "optimized/Ramo14_large_q85.jpg",
+          "size": 83124,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo14_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo14_medium_q75.jpg",
+          "relativePath": "optimized/Ramo14_medium_q75.jpg",
+          "size": 40256,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo14_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo14_small_q70.jpg",
+          "relativePath": "optimized/Ramo14_small_q70.jpg",
+          "size": 19004,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo15_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo15_large_q85.jpg",
+          "relativePath": "optimized/Ramo15_large_q85.jpg",
+          "size": 82399,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo15_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo15_medium_q75.jpg",
+          "relativePath": "optimized/Ramo15_medium_q75.jpg",
+          "size": 40410,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo15_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo15_small_q70.jpg",
+          "relativePath": "optimized/Ramo15_small_q70.jpg",
+          "size": 18978,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo1_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo1_large_q85.jpg",
+          "relativePath": "optimized/Ramo1_large_q85.jpg",
+          "size": 60979,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo1_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo1_medium_q75.jpg",
+          "relativePath": "optimized/Ramo1_medium_q75.jpg",
+          "size": 30385,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo1_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo1_small_q70.jpg",
+          "relativePath": "optimized/Ramo1_small_q70.jpg",
+          "size": 14618,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo2_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo2_large_q85.jpg",
+          "relativePath": "optimized/Ramo2_large_q85.jpg",
+          "size": 64635,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo2_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo2_medium_q75.jpg",
+          "relativePath": "optimized/Ramo2_medium_q75.jpg",
+          "size": 32460,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo2_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo2_small_q70.jpg",
+          "relativePath": "optimized/Ramo2_small_q70.jpg",
+          "size": 16078,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo3_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo3_large_q85.jpg",
+          "relativePath": "optimized/Ramo3_large_q85.jpg",
+          "size": 76997,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo3_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo3_medium_q75.jpg",
+          "relativePath": "optimized/Ramo3_medium_q75.jpg",
+          "size": 35296,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo3_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo3_small_q70.jpg",
+          "relativePath": "optimized/Ramo3_small_q70.jpg",
+          "size": 16865,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo4_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo4_large_q85.jpg",
+          "relativePath": "optimized/Ramo4_large_q85.jpg",
+          "size": 71687,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo4_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo4_medium_q75.jpg",
+          "relativePath": "optimized/Ramo4_medium_q75.jpg",
+          "size": 34906,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo4_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo4_small_q70.jpg",
+          "relativePath": "optimized/Ramo4_small_q70.jpg",
+          "size": 16660,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo5_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo5_large_q85.jpg",
+          "relativePath": "optimized/Ramo5_large_q85.jpg",
+          "size": 78796,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo5_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo5_medium_q75.jpg",
+          "relativePath": "optimized/Ramo5_medium_q75.jpg",
+          "size": 37997,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo5_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo5_small_q70.jpg",
+          "relativePath": "optimized/Ramo5_small_q70.jpg",
+          "size": 17871,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo6_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo6_large_q85.jpg",
+          "relativePath": "optimized/Ramo6_large_q85.jpg",
+          "size": 93099,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo6_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo6_medium_q75.jpg",
+          "relativePath": "optimized/Ramo6_medium_q75.jpg",
+          "size": 45300,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo6_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo6_small_q70.jpg",
+          "relativePath": "optimized/Ramo6_small_q70.jpg",
+          "size": 21355,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo7_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo7_large_q85.jpg",
+          "relativePath": "optimized/Ramo7_large_q85.jpg",
+          "size": 89113,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo7_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo7_medium_q75.jpg",
+          "relativePath": "optimized/Ramo7_medium_q75.jpg",
+          "size": 42205,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo7_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo7_small_q70.jpg",
+          "relativePath": "optimized/Ramo7_small_q70.jpg",
+          "size": 19806,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo8_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo8_large_q85.jpg",
+          "relativePath": "optimized/Ramo8_large_q85.jpg",
+          "size": 75454,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo8_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo8_medium_q75.jpg",
+          "relativePath": "optimized/Ramo8_medium_q75.jpg",
+          "size": 36244,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo8_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo8_small_q70.jpg",
+          "relativePath": "optimized/Ramo8_small_q70.jpg",
+          "size": 17205,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo9_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo9_large_q85.jpg",
+          "relativePath": "optimized/Ramo9_large_q85.jpg",
+          "size": 84089,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo9_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo9_medium_q75.jpg",
+          "relativePath": "optimized/Ramo9_medium_q75.jpg",
+          "size": 40573,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "Ramo9_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/Ramo9_small_q70.jpg",
+          "relativePath": "optimized/Ramo9_small_q70.jpg",
+          "size": 19283,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "ramo16_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/ramo16_large_q85.jpg",
+          "relativePath": "optimized/ramo16_large_q85.jpg",
+          "size": 94035,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "ramo16_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/ramo16_medium_q75.jpg",
+          "relativePath": "optimized/ramo16_medium_q75.jpg",
+          "size": 45275,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "ramo16_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/optimized/ramo16_small_q70.jpg",
+          "relativePath": "optimized/ramo16_small_q70.jpg",
+          "size": 20916,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "ramo16.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosElegantes/ramo16.webp",
+          "relativePath": "ramo16.webp",
+          "size": 228754,
+          "ext": ".webp"
+        }
+      ],
+      "count": 64,
+      "totalSize": 4940135
+    },
+    "ramos-clasicos": {
+      "name": "Ramos Clásicos",
+      "folder": "ramosClasicos",
+      "images": [
+        {
+          "filename": "ramo-estilizado1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado1.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado1.webp",
+          "size": 111630,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado10.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado10.webp",
+          "size": 141726,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado11.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado11.webp",
+          "size": 133110,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado12.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado12.webp",
+          "size": 127422,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado13.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado13.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado13.webp",
+          "size": 97542,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado2.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado2.webp",
+          "size": 207410,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado3.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado3.webp",
+          "size": 114086,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado4.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado4.webp",
+          "size": 89464,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado5.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado5.webp",
+          "size": 134386,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado6.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado6.webp",
+          "size": 130648,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado7.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado7.webp",
+          "size": 109856,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado8.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado8.webp",
+          "size": 127084,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-estilizado9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoEstilizado/ramo-estilizado9.webp",
+          "relativePath": "ramoEstilizado/ramo-estilizado9.webp",
+          "size": 177264,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-girasoles1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoGirasoles/ramo-girasoles1.webp",
+          "relativePath": "ramoGirasoles/ramo-girasoles1.webp",
+          "size": 144124,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-girasoles2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoGirasoles/ramo-girasoles2.webp",
+          "relativePath": "ramoGirasoles/ramo-girasoles2.webp",
+          "size": 99388,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-girasoles3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoGirasoles/ramo-girasoles3.webp",
+          "relativePath": "ramoGirasoles/ramo-girasoles3.webp",
+          "size": 126254,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-girasoles4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoGirasoles/ramo-girasoles4.webp",
+          "relativePath": "ramoGirasoles/ramo-girasoles4.webp",
+          "size": 124556,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix10.webp",
+          "relativePath": "ramoMix/ramo-mix10.webp",
+          "size": 103162,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix1png.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix1png.webp",
+          "relativePath": "ramoMix/ramo-mix1png.webp",
+          "size": 140394,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix2.webp",
+          "relativePath": "ramoMix/ramo-mix2.webp",
+          "size": 113822,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix3.webp",
+          "relativePath": "ramoMix/ramo-mix3.webp",
+          "size": 111116,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix4.webp",
+          "relativePath": "ramoMix/ramo-mix4.webp",
+          "size": 147260,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix5.webp",
+          "relativePath": "ramoMix/ramo-mix5.webp",
+          "size": 137250,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix6.webp",
+          "relativePath": "ramoMix/ramo-mix6.webp",
+          "size": 124092,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix7.webp",
+          "relativePath": "ramoMix/ramo-mix7.webp",
+          "size": 115568,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix8.webp",
+          "relativePath": "ramoMix/ramo-mix8.webp",
+          "size": 85970,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-mix9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoMix/ramo-mix9.webp",
+          "relativePath": "ramoMix/ramo-mix9.webp",
+          "size": 141328,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas1.webp",
+          "relativePath": "ramoRosas/ramo-rosas1.webp",
+          "size": 114526,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas11.webp",
+          "relativePath": "ramoRosas/ramo-rosas11.webp",
+          "size": 104212,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas2.webp",
+          "relativePath": "ramoRosas/ramo-rosas2.webp",
+          "size": 120916,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas3.webp",
+          "relativePath": "ramoRosas/ramo-rosas3.webp",
+          "size": 216988,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas4.webp",
+          "relativePath": "ramoRosas/ramo-rosas4.webp",
+          "size": 141226,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas5.webp",
+          "relativePath": "ramoRosas/ramo-rosas5.webp",
+          "size": 144624,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas6.webp",
+          "relativePath": "ramoRosas/ramo-rosas6.webp",
+          "size": 102140,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas7.webp",
+          "relativePath": "ramoRosas/ramo-rosas7.webp",
+          "size": 129842,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas8.webp",
+          "relativePath": "ramoRosas/ramo-rosas8.webp",
+          "size": 118778,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-rosas9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoRosas/ramo-rosas9.webp",
+          "relativePath": "ramoRosas/ramo-rosas9.webp",
+          "size": 165544,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes1.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes1.webp",
+          "size": 130234,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes2.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes2.webp",
+          "size": 96926,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes3.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes3.webp",
+          "size": 154324,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes4.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes4.webp",
+          "size": 156488,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes5.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes5.webp",
+          "size": 104944,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes6.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes6.webp",
+          "size": 131746,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes7.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes7.webp",
+          "size": 121640,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes8.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes8.webp",
+          "size": 151126,
+          "ext": ".webp"
+        },
+        {
+          "filename": "ramo-tulipanes9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/ramosClasicos/ramoTulipanes/ramo-tulipanes9.webp",
+          "relativePath": "ramoTulipanes/ramo-tulipanes9.webp",
+          "size": 160712,
+          "ext": ".webp"
+        }
+      ],
+      "count": 46,
+      "totalSize": 5982848
+    },
+    "celebraciones-especiales": {
+      "name": "Celebraciones Especiales",
+      "folder": "celebracionesEspeciales",
+      "images": [
+        {
+          "filename": "canasta1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta1.webp",
+          "relativePath": "canastasFlores/canasta1.webp",
+          "size": 158826,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta10.webp",
+          "relativePath": "canastasFlores/canasta10.webp",
+          "size": 207540,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta11.webp",
+          "relativePath": "canastasFlores/canasta11.webp",
+          "size": 184460,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta12.webp",
+          "relativePath": "canastasFlores/canasta12.webp",
+          "size": 257154,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta2.webp",
+          "relativePath": "canastasFlores/canasta2.webp",
+          "size": 123122,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta3.webp",
+          "relativePath": "canastasFlores/canasta3.webp",
+          "size": 198660,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta4.webp",
+          "relativePath": "canastasFlores/canasta4.webp",
+          "size": 209310,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta5.webp",
+          "relativePath": "canastasFlores/canasta5.webp",
+          "size": 200706,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta6.webp",
+          "relativePath": "canastasFlores/canasta6.webp",
+          "size": 178710,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta7.webp",
+          "relativePath": "canastasFlores/canasta7.webp",
+          "size": 228218,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta8.webp",
+          "relativePath": "canastasFlores/canasta8.webp",
+          "size": 239992,
+          "ext": ".webp"
+        },
+        {
+          "filename": "canasta9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/canastasFlores/canasta9.webp",
+          "relativePath": "canastasFlores/canasta9.webp",
+          "size": 185926,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa1.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa1.webp",
+          "size": 216118,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa10.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa10.webp",
+          "size": 270736,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa11.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa11.webp",
+          "size": 152082,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa12.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa12.webp",
+          "size": 193036,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa2.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa2.webp",
+          "size": 234984,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa3.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa3.webp",
+          "size": 196482,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa4.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa4.webp",
+          "size": 228018,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa5.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa5.webp",
+          "size": 183500,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa6.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa6.webp",
+          "size": 215004,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa7.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa7.webp",
+          "size": 177850,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa8.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa8.webp",
+          "size": 185748,
+          "ext": ".webp"
+        },
+        {
+          "filename": "centro-mesa9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/centrosDeMesaFestivos/centro-mesa9.webp",
+          "relativePath": "centrosDeMesaFestivos/centro-mesa9.webp",
+          "size": 110452,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon.webp",
+          "size": 104668,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon1.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon1.webp",
+          "size": 272814,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon10.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon10.webp",
+          "size": 109204,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon11.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon11.webp",
+          "size": 204240,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon2.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon2.webp",
+          "size": 148932,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon3.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon3.webp",
+          "size": 187062,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon4.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon4.webp",
+          "size": 111352,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon5.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon5.webp",
+          "size": 198366,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon6.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon6.webp",
+          "size": 160604,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon7.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon7.webp",
+          "size": 161966,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon8.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon8.webp",
+          "size": 199170,
+          "ext": ".webp"
+        },
+        {
+          "filename": "detalle-forma-corazon9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/celebracionesEspeciales/detallesEnFormaDeCorazon/detalle-forma-corazon9.webp",
+          "relativePath": "detallesEnFormaDeCorazon/detalle-forma-corazon9.webp",
+          "size": 82386,
+          "ext": ".webp"
+        }
+      ],
+      "count": 36,
+      "totalSize": 6677398
+    },
+    "cumpleanos": {
+      "name": "Cumpleaños",
+      "folder": "cumpleanos",
+      "images": [
+        {
+          "filename": "cumpleanos1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos1.webp",
+          "relativePath": "cumpleanos1.webp",
+          "size": 115344,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos10.webp",
+          "relativePath": "cumpleanos10.webp",
+          "size": 193770,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos11.webp",
+          "relativePath": "cumpleanos11.webp",
+          "size": 172664,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos12.webp",
+          "relativePath": "cumpleanos12.webp",
+          "size": 230422,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos13.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos13.webp",
+          "relativePath": "cumpleanos13.webp",
+          "size": 254280,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos14.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos14.webp",
+          "relativePath": "cumpleanos14.webp",
+          "size": 187686,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos15.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos15.webp",
+          "relativePath": "cumpleanos15.webp",
+          "size": 184706,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos16.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos16.webp",
+          "relativePath": "cumpleanos16.webp",
+          "size": 168952,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos17.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos17.webp",
+          "relativePath": "cumpleanos17.webp",
+          "size": 113378,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos18.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos18.webp",
+          "relativePath": "cumpleanos18.webp",
+          "size": 230044,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos2.webp",
+          "relativePath": "cumpleanos2.webp",
+          "size": 118574,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos3.webp",
+          "relativePath": "cumpleanos3.webp",
+          "size": 177928,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos4.webp",
+          "relativePath": "cumpleanos4.webp",
+          "size": 193338,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos5.webp",
+          "relativePath": "cumpleanos5.webp",
+          "size": 100052,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos6.webp",
+          "relativePath": "cumpleanos6.webp",
+          "size": 140248,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos7png.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos7png.webp",
+          "relativePath": "cumpleanos7png.webp",
+          "size": 107708,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos8.webp",
+          "relativePath": "cumpleanos8.webp",
+          "size": 260384,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/cumpleanos9.webp",
+          "relativePath": "cumpleanos9.webp",
+          "size": 197588,
+          "ext": ".webp"
+        },
+        {
+          "filename": "cumpleanos10_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos10_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos10_large_q85.jpg",
+          "size": 57797,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos10_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos10_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos10_medium_q75.jpg",
+          "size": 28157,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos10_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos10_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos10_small_q70.jpg",
+          "size": 13491,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos11_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos11_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos11_large_q85.jpg",
+          "size": 51107,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos11_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos11_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos11_medium_q75.jpg",
+          "size": 25264,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos11_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos11_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos11_small_q70.jpg",
+          "size": 11916,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos12_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos12_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos12_large_q85.jpg",
+          "size": 63488,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos12_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos12_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos12_medium_q75.jpg",
+          "size": 30817,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos12_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos12_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos12_small_q70.jpg",
+          "size": 14412,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos13_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos13_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos13_large_q85.jpg",
+          "size": 64124,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos13_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos13_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos13_medium_q75.jpg",
+          "size": 31556,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos13_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos13_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos13_small_q70.jpg",
+          "size": 14989,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos14_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos14_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos14_large_q85.jpg",
+          "size": 62911,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos14_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos14_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos14_medium_q75.jpg",
+          "size": 30608,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos14_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos14_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos14_small_q70.jpg",
+          "size": 14233,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos15_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos15_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos15_large_q85.jpg",
+          "size": 48054,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos15_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos15_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos15_medium_q75.jpg",
+          "size": 23225,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos15_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos15_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos15_small_q70.jpg",
+          "size": 10908,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos16_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos16_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos16_large_q85.jpg",
+          "size": 55188,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos16_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos16_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos16_medium_q75.jpg",
+          "size": 27482,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos16_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos16_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos16_small_q70.jpg",
+          "size": 13112,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos17_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos17_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos17_large_q85.jpg",
+          "size": 42209,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos17_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos17_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos17_medium_q75.jpg",
+          "size": 20933,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos17_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos17_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos17_small_q70.jpg",
+          "size": 10024,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos18_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos18_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos18_large_q85.jpg",
+          "size": 69874,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos18_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos18_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos18_medium_q75.jpg",
+          "size": 33915,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos18_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos18_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos18_small_q70.jpg",
+          "size": 15874,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos1_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos1_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos1_large_q85.jpg",
+          "size": 37758,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos1_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos1_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos1_medium_q75.jpg",
+          "size": 19216,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos1_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos1_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos1_small_q70.jpg",
+          "size": 9207,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos2_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos2_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos2_large_q85.jpg",
+          "size": 41291,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos2_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos2_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos2_medium_q75.jpg",
+          "size": 20393,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos2_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos2_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos2_small_q70.jpg",
+          "size": 9743,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos3_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos3_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos3_large_q85.jpg",
+          "size": 60554,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos3_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos3_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos3_medium_q75.jpg",
+          "size": 30815,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos3_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos3_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos3_small_q70.jpg",
+          "size": 14879,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos4_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos4_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos4_large_q85.jpg",
+          "size": 55424,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos4_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos4_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos4_medium_q75.jpg",
+          "size": 28816,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos4_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos4_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos4_small_q70.jpg",
+          "size": 13872,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos5_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos5_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos5_large_q85.jpg",
+          "size": 32457,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos5_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos5_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos5_medium_q75.jpg",
+          "size": 16487,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos5_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos5_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos5_small_q70.jpg",
+          "size": 7911,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos6_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos6_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos6_large_q85.jpg",
+          "size": 53549,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos6_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos6_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos6_medium_q75.jpg",
+          "size": 27150,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos6_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos6_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos6_small_q70.jpg",
+          "size": 12994,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos7png_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos7png_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos7png_large_q85.jpg",
+          "size": 43703,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos7png_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos7png_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos7png_medium_q75.jpg",
+          "size": 21854,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos7png_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos7png_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos7png_small_q70.jpg",
+          "size": 10497,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos8_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos8_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos8_large_q85.jpg",
+          "size": 70869,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos8_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos8_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos8_medium_q75.jpg",
+          "size": 35005,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos8_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos8_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos8_small_q70.jpg",
+          "size": 16372,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos9_large_q85.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos9_large_q85.jpg",
+          "relativePath": "optimized/cumpleanos9_large_q85.jpg",
+          "size": 59555,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos9_medium_q75.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos9_medium_q75.jpg",
+          "relativePath": "optimized/cumpleanos9_medium_q75.jpg",
+          "size": 30580,
+          "ext": ".jpg"
+        },
+        {
+          "filename": "cumpleanos9_small_q70.jpg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/cumpleanos/optimized/cumpleanos9_small_q70.jpg",
+          "relativePath": "optimized/cumpleanos9_small_q70.jpg",
+          "size": 14726,
+          "ext": ".jpg"
+        }
+      ],
+      "count": 72,
+      "totalSize": 4828411
+    },
+    "eventos-religiosos": {
+      "name": "Eventos Religiosos",
+      "folder": "eventosReligiosos",
+      "images": [
+        {
+          "filename": "templo1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo1.webp",
+          "relativePath": "arregloDeTemplo/templo1.webp",
+          "size": 154952,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo10.webp",
+          "relativePath": "arregloDeTemplo/templo10.webp",
+          "size": 256816,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo11.webp",
+          "relativePath": "arregloDeTemplo/templo11.webp",
+          "size": 170536,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo12.webp",
+          "relativePath": "arregloDeTemplo/templo12.webp",
+          "size": 160794,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo13.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo13.webp",
+          "relativePath": "arregloDeTemplo/templo13.webp",
+          "size": 233942,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo14.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo14.webp",
+          "relativePath": "arregloDeTemplo/templo14.webp",
+          "size": 226380,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo15.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo15.webp",
+          "relativePath": "arregloDeTemplo/templo15.webp",
+          "size": 73976,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo16.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo16.webp",
+          "relativePath": "arregloDeTemplo/templo16.webp",
+          "size": 112020,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo17.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo17.webp",
+          "relativePath": "arregloDeTemplo/templo17.webp",
+          "size": 57096,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo18.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo18.webp",
+          "relativePath": "arregloDeTemplo/templo18.webp",
+          "size": 99114,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo19.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo19.webp",
+          "relativePath": "arregloDeTemplo/templo19.webp",
+          "size": 145784,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo2.webp",
+          "relativePath": "arregloDeTemplo/templo2.webp",
+          "size": 230376,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo20.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo20.webp",
+          "relativePath": "arregloDeTemplo/templo20.webp",
+          "size": 135620,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo21.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo21.webp",
+          "relativePath": "arregloDeTemplo/templo21.webp",
+          "size": 95948,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo23.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo23.webp",
+          "relativePath": "arregloDeTemplo/templo23.webp",
+          "size": 245706,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo3.webp",
+          "relativePath": "arregloDeTemplo/templo3.webp",
+          "size": 377762,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo4.webp",
+          "relativePath": "arregloDeTemplo/templo4.webp",
+          "size": 99810,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo5.webp",
+          "relativePath": "arregloDeTemplo/templo5.webp",
+          "size": 102884,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo6.webp",
+          "relativePath": "arregloDeTemplo/templo6.webp",
+          "size": 189554,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo7.webp",
+          "relativePath": "arregloDeTemplo/templo7.webp",
+          "size": 152716,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo8.webp",
+          "relativePath": "arregloDeTemplo/templo8.webp",
+          "size": 172420,
+          "ext": ".webp"
+        },
+        {
+          "filename": "templo9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/arregloDeTemplo/templo9.webp",
+          "relativePath": "arregloDeTemplo/templo9.webp",
+          "size": 156768,
+          "ext": ".webp"
+        },
+        {
+          "filename": "bautizo1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/bautizo/bautizo1.webp",
+          "relativePath": "bautizo/bautizo1.webp",
+          "size": 166822,
+          "ext": ".webp"
+        },
+        {
+          "filename": "bautizo2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/bautizo/bautizo2.webp",
+          "relativePath": "bautizo/bautizo2.webp",
+          "size": 134812,
+          "ext": ".webp"
+        },
+        {
+          "filename": "bautizo3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/bautizo/bautizo3.webp",
+          "relativePath": "bautizo/bautizo3.webp",
+          "size": 145594,
+          "ext": ".webp"
+        },
+        {
+          "filename": "bautizo4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/bautizo/bautizo4.webp",
+          "relativePath": "bautizo/bautizo4.webp",
+          "size": 145714,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita1.webp",
+          "relativePath": "hermita/hermita1.webp",
+          "size": 335950,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita2.webp",
+          "relativePath": "hermita/hermita2.webp",
+          "size": 100410,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita3.webp",
+          "relativePath": "hermita/hermita3.webp",
+          "size": 249418,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita4.webp",
+          "relativePath": "hermita/hermita4.webp",
+          "size": 147930,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita5.webp",
+          "relativePath": "hermita/hermita5.webp",
+          "size": 119946,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita6.webp",
+          "relativePath": "hermita/hermita6.webp",
+          "size": 142368,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita7.webp",
+          "relativePath": "hermita/hermita7.webp",
+          "size": 115780,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita8.webp",
+          "relativePath": "hermita/hermita8.webp",
+          "size": 133482,
+          "ext": ".webp"
+        },
+        {
+          "filename": "hermita9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/eventosReligiosos/hermita/hermita9.webp",
+          "relativePath": "hermita/hermita9.webp",
+          "size": 195030,
+          "ext": ".webp"
+        }
+      ],
+      "count": 35,
+      "totalSize": 5784230
+    },
+    "galeria-funeraria": {
+      "name": "Para Recordar y...",
+      "folder": "galeriaFuneraria",
+      "images": [
+        {
+          "filename": "Corona1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona1.webp",
+          "relativePath": "coronas/Corona1.webp",
+          "size": 243226,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona10.webp",
+          "relativePath": "coronas/Corona10.webp",
+          "size": 234298,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona11.webp",
+          "relativePath": "coronas/Corona11.webp",
+          "size": 306728,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona12.webp",
+          "relativePath": "coronas/Corona12.webp",
+          "size": 242118,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona13.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona13.webp",
+          "relativePath": "coronas/Corona13.webp",
+          "size": 216510,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona14.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona14.webp",
+          "relativePath": "coronas/Corona14.webp",
+          "size": 360570,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona15.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona15.webp",
+          "relativePath": "coronas/Corona15.webp",
+          "size": 198646,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona16.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona16.webp",
+          "relativePath": "coronas/Corona16.webp",
+          "size": 294452,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona17.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona17.webp",
+          "relativePath": "coronas/Corona17.webp",
+          "size": 336856,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona18.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona18.webp",
+          "relativePath": "coronas/Corona18.webp",
+          "size": 327582,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona19.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona19.webp",
+          "relativePath": "coronas/Corona19.webp",
+          "size": 258984,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona2.webp",
+          "relativePath": "coronas/Corona2.webp",
+          "size": 185982,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona20.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona20.webp",
+          "relativePath": "coronas/Corona20.webp",
+          "size": 197534,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona21.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona21.webp",
+          "relativePath": "coronas/Corona21.webp",
+          "size": 227866,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona22.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona22.webp",
+          "relativePath": "coronas/Corona22.webp",
+          "size": 222424,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona23.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona23.webp",
+          "relativePath": "coronas/Corona23.webp",
+          "size": 182438,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona24.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona24.webp",
+          "relativePath": "coronas/Corona24.webp",
+          "size": 245492,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona25.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona25.webp",
+          "relativePath": "coronas/Corona25.webp",
+          "size": 191806,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona26.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona26.webp",
+          "relativePath": "coronas/Corona26.webp",
+          "size": 193350,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona27.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona27.webp",
+          "relativePath": "coronas/Corona27.webp",
+          "size": 201244,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona28.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona28.webp",
+          "relativePath": "coronas/Corona28.webp",
+          "size": 223600,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona29.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona29.webp",
+          "relativePath": "coronas/Corona29.webp",
+          "size": 231122,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona3.webp",
+          "relativePath": "coronas/Corona3.webp",
+          "size": 223646,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona4.webp",
+          "relativePath": "coronas/Corona4.webp",
+          "size": 171368,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona5.webp",
+          "relativePath": "coronas/Corona5.webp",
+          "size": 223002,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona6.webp",
+          "relativePath": "coronas/Corona6.webp",
+          "size": 228850,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona7.webp",
+          "relativePath": "coronas/Corona7.webp",
+          "size": 205250,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona8.webp",
+          "relativePath": "coronas/Corona8.webp",
+          "size": 278422,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Corona9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/coronas/Corona9.webp",
+          "relativePath": "coronas/Corona9.webp",
+          "size": 281094,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz1.webp",
+          "relativePath": "cruces/Cruz1.webp",
+          "size": 186290,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz2.webp",
+          "relativePath": "cruces/Cruz2.webp",
+          "size": 126284,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz3.webp",
+          "relativePath": "cruces/Cruz3.webp",
+          "size": 190268,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz4.webp",
+          "relativePath": "cruces/Cruz4.webp",
+          "size": 135538,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz5.webp",
+          "relativePath": "cruces/Cruz5.webp",
+          "size": 153252,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz6.webp",
+          "relativePath": "cruces/Cruz6.webp",
+          "size": 111902,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz7.webp",
+          "relativePath": "cruces/Cruz7.webp",
+          "size": 138982,
+          "ext": ".webp"
+        },
+        {
+          "filename": "Cruz8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cruces/Cruz8.webp",
+          "relativePath": "cruces/Cruz8.webp",
+          "size": 134708,
+          "ext": ".webp"
+        },
+        {
+          "filename": "CubreCaja1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cubreCaja/CubreCaja1.webp",
+          "relativePath": "cubreCaja/CubreCaja1.webp",
+          "size": 144262,
+          "ext": ".webp"
+        },
+        {
+          "filename": "CubreCaja2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cubreCaja/CubreCaja2.webp",
+          "relativePath": "cubreCaja/CubreCaja2.webp",
+          "size": 188626,
+          "ext": ".webp"
+        },
+        {
+          "filename": "CubreCaja3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cubreCaja/CubreCaja3.webp",
+          "relativePath": "cubreCaja/CubreCaja3.webp",
+          "size": 108320,
+          "ext": ".webp"
+        },
+        {
+          "filename": "CubreCaja4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cubreCaja/CubreCaja4.webp",
+          "relativePath": "cubreCaja/CubreCaja4.webp",
+          "size": 140398,
+          "ext": ".webp"
+        },
+        {
+          "filename": "CubreCaja5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cubreCaja/CubreCaja5.webp",
+          "relativePath": "cubreCaja/CubreCaja5.webp",
+          "size": 178672,
+          "ext": ".webp"
+        },
+        {
+          "filename": "CubreCaja6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/cubreCaja/CubreCaja6.webp",
+          "relativePath": "cubreCaja/CubreCaja6.webp",
+          "size": 195958,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar1.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar1.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar1.webp",
+          "size": 235408,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar10.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar10.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar10.webp",
+          "size": 239602,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar11.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar11.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar11.webp",
+          "size": 215806,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar12.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar12.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar12.webp",
+          "size": 173306,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar13.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar13.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar13.webp",
+          "size": 233172,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar14.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar14.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar14.webp",
+          "size": 295802,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar2.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar2.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar2.webp",
+          "size": 248620,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar3.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar3.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar3.webp",
+          "size": 230332,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar4.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar4.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar4.webp",
+          "size": 218956,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar5.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar5.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar5.webp",
+          "size": 176846,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar6.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar6.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar6.webp",
+          "size": 221586,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar7.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar7.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar7.webp",
+          "size": 224974,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar8.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar8.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar8.webp",
+          "size": 165796,
+          "ext": ".webp"
+        },
+        {
+          "filename": "PieDeCajaAltar9.webp",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/galeriaFuneraria/pieCajaAltar/PieDeCajaAltar9.webp",
+          "relativePath": "pieCajaAltar/PieDeCajaAltar9.webp",
+          "size": 225326,
+          "ext": ".webp"
+        }
+      ],
+      "count": 57,
+      "totalSize": 12173452
+    },
+    "quinceanera": {
+      "name": "Quinceañera",
+      "folder": "quinceanera",
+      "images": [
+        {
+          "filename": "ArregloFloral1.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/centroDeMesa/ArregloFloral1.png",
+          "relativePath": "centroDeMesa/ArregloFloral1.png",
+          "size": 1027891,
+          "ext": ".png"
+        },
+        {
+          "filename": "arregloFloral2.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/centroDeMesa/arregloFloral2.png",
+          "relativePath": "centroDeMesa/arregloFloral2.png",
+          "size": 2375191,
+          "ext": ".png"
+        },
+        {
+          "filename": "centroDeMesa1.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/centroDeMesa/centroDeMesa1.jpeg",
+          "relativePath": "centroDeMesa/centroDeMesa1.jpeg",
+          "size": 322729,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "centroDeMesa2.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/centroDeMesa/centroDeMesa2.png",
+          "relativePath": "centroDeMesa/centroDeMesa2.png",
+          "size": 814395,
+          "ext": ".png"
+        },
+        {
+          "filename": "centroDeMesa3.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/centroDeMesa/centroDeMesa3.png",
+          "relativePath": "centroDeMesa/centroDeMesa3.png",
+          "size": 1394450,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quinceanera1.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quinceanera1.png",
+          "relativePath": "ramos/ramo-quinceanera1.png",
+          "size": 685238,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quinceanera2.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quinceanera2.png",
+          "relativePath": "ramos/ramo-quinceanera2.png",
+          "size": 593574,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera10.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera10.png",
+          "relativePath": "ramos/ramo-quincenera10.png",
+          "size": 1006339,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera11.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera11.png",
+          "relativePath": "ramos/ramo-quincenera11.png",
+          "size": 856044,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera4.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera4.png",
+          "relativePath": "ramos/ramo-quincenera4.png",
+          "size": 684110,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera5.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera5.png",
+          "relativePath": "ramos/ramo-quincenera5.png",
+          "size": 685238,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera6.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera6.png",
+          "relativePath": "ramos/ramo-quincenera6.png",
+          "size": 992833,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera7.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera7.png",
+          "relativePath": "ramos/ramo-quincenera7.png",
+          "size": 739101,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera8.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera8.png",
+          "relativePath": "ramos/ramo-quincenera8.png",
+          "size": 776296,
+          "ext": ".png"
+        },
+        {
+          "filename": "ramo-quincenera9.png",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/ramos/ramo-quincenera9.png",
+          "relativePath": "ramos/ramo-quincenera9.png",
+          "size": 1019499,
+          "ext": ".png"
+        },
+        {
+          "filename": "templo1.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo1.jpeg",
+          "relativePath": "templo/templo1.jpeg",
+          "size": 168450,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo11.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo11.jpeg",
+          "relativePath": "templo/templo11.jpeg",
+          "size": 252871,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo12.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo12.jpeg",
+          "relativePath": "templo/templo12.jpeg",
+          "size": 208476,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo13.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo13.jpeg",
+          "relativePath": "templo/templo13.jpeg",
+          "size": 115548,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo16.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo16.jpeg",
+          "relativePath": "templo/templo16.jpeg",
+          "size": 129106,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo17.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo17.jpeg",
+          "relativePath": "templo/templo17.jpeg",
+          "size": 129604,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo18.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo18.jpeg",
+          "relativePath": "templo/templo18.jpeg",
+          "size": 209309,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo22.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo22.jpeg",
+          "relativePath": "templo/templo22.jpeg",
+          "size": 275626,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo24.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo24.jpeg",
+          "relativePath": "templo/templo24.jpeg",
+          "size": 158655,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo25.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo25.jpeg",
+          "relativePath": "templo/templo25.jpeg",
+          "size": 178325,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo27.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo27.jpeg",
+          "relativePath": "templo/templo27.jpeg",
+          "size": 214828,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo28.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo28.jpeg",
+          "relativePath": "templo/templo28.jpeg",
+          "size": 183855,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo29.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo29.jpeg",
+          "relativePath": "templo/templo29.jpeg",
+          "size": 297092,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo3.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo3.jpeg",
+          "relativePath": "templo/templo3.jpeg",
+          "size": 226168,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo30.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo30.jpeg",
+          "relativePath": "templo/templo30.jpeg",
+          "size": 145606,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo4.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo4.jpeg",
+          "relativePath": "templo/templo4.jpeg",
+          "size": 241955,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo5.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo5.jpeg",
+          "relativePath": "templo/templo5.jpeg",
+          "size": 205610,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo6.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo6.jpeg",
+          "relativePath": "templo/templo6.jpeg",
+          "size": 194975,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo8.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo8.jpeg",
+          "relativePath": "templo/templo8.jpeg",
+          "size": 288159,
+          "ext": ".jpeg"
+        },
+        {
+          "filename": "templo9.jpeg",
+          "path": "/Users/isabelquijada/flore/FloreriaValeriaCocula/assets/quinceanera/templo/templo9.jpeg",
+          "relativePath": "templo/templo9.jpeg",
+          "size": 209192,
+          "ext": ".jpeg"
+        }
+      ],
+      "count": 35,
+      "totalSize": 18006338
+    }
+  },
+  "summary": {
+    "totalCategories": 8,
+    "totalSubcategories": 0,
+    "totalImages": 375,
+    "totalSize": 65425576,
+    "byFormat": {
+      ".webp": 238,
+      ".jpg": 102,
+      ".png": 14,
+      ".jpeg": 21
+    }
+  }
+}

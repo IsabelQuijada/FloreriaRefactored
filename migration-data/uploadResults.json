@@ -1,0 +1,3821 @@
+{
+  "timestamp": "2026-05-01T18:18:47.723Z",
+  "cloudinary": {
+    "cloud_name": "difk1abvo"
+  },
+  "categories": {
+    "bodas-de-ensueno": {
+      "name": "Bodas de Ensueño",
+      "images": [
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa1.webp",
+          "filename": "arreglo-centro-mesa1.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659528/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2608658
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa10.webp",
+          "filename": "arreglo-centro-mesa10.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659539/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1267049
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa11.webp",
+          "filename": "arreglo-centro-mesa11.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659556/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2273815
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa2.webp",
+          "filename": "arreglo-centro-mesa2.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659566/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2636132
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa3.webp",
+          "filename": "arreglo-centro-mesa3.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659575/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2448255
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa4.webp",
+          "filename": "arreglo-centro-mesa4.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659587/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2927778
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa5.webp",
+          "filename": "arreglo-centro-mesa5.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659596/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3011829
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa6.webp",
+          "filename": "arreglo-centro-mesa6.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659605/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2569950
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa7.webp",
+          "filename": "arreglo-centro-mesa7.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659615/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2788706
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa8.webp",
+          "filename": "arreglo-centro-mesa8.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659622/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3007872
+        },
+        {
+          "originalPath": "arreglosCentrosDeMesa/arreglo-centro-mesa9.webp",
+          "filename": "arreglo-centro-mesa9.webp",
+          "publicId": "floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659631/floreria/bodas-de-ensueno/arreglosCentrosDeMesa/arreglo-centro-mesa9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2450799
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia1.webp",
+          "filename": "ramo-novia1.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659642/floreria/bodas-de-ensueno/ramosNovia/ramo-novia1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 384236
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia2.webp",
+          "filename": "ramo-novia2.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659656/floreria/bodas-de-ensueno/ramosNovia/ramo-novia2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1182802
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia3.webp",
+          "filename": "ramo-novia3.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659671/floreria/bodas-de-ensueno/ramosNovia/ramo-novia3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1492908
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia4.webp",
+          "filename": "ramo-novia4.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659686/floreria/bodas-de-ensueno/ramosNovia/ramo-novia4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1994206
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia5.webp",
+          "filename": "ramo-novia5.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659703/floreria/bodas-de-ensueno/ramosNovia/ramo-novia5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 400742
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia6.webp",
+          "filename": "ramo-novia6.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659718/floreria/bodas-de-ensueno/ramosNovia/ramo-novia6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1583885
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia7.webp",
+          "filename": "ramo-novia7.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659733/floreria/bodas-de-ensueno/ramosNovia/ramo-novia7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2013858
+        },
+        {
+          "originalPath": "ramosNovia/ramo-novia8.webp",
+          "filename": "ramo-novia8.webp",
+          "publicId": "floreria/bodas-de-ensueno/ramosNovia/ramo-novia8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659744/floreria/bodas-de-ensueno/ramosNovia/ramo-novia8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2041458
+        },
+        {
+          "originalPath": "templo/Templo 1.webp",
+          "filename": "Templo 1.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659760/floreria/bodas-de-ensueno/templo/Templo%201.jpg",
+          "width": 1200,
+          "height": 1377,
+          "format": "jpg",
+          "bytes": 369172
+        },
+        {
+          "originalPath": "templo/Templo 10.webp",
+          "filename": "Templo 10.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659764/floreria/bodas-de-ensueno/templo/Templo%2010.jpg",
+          "width": 1200,
+          "height": 1600,
+          "format": "jpg",
+          "bytes": 222009
+        },
+        {
+          "originalPath": "templo/Templo 2.webp",
+          "filename": "Templo 2.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659768/floreria/bodas-de-ensueno/templo/Templo%202.jpg",
+          "width": 1200,
+          "height": 1600,
+          "format": "jpg",
+          "bytes": 342140
+        },
+        {
+          "originalPath": "templo/Templo 3.webp",
+          "filename": "Templo 3.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659772/floreria/bodas-de-ensueno/templo/Templo%203.jpg",
+          "width": 1200,
+          "height": 1600,
+          "format": "jpg",
+          "bytes": 349938
+        },
+        {
+          "originalPath": "templo/Templo 4.1.webp",
+          "filename": "Templo 4.1.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 4.1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659776/floreria/bodas-de-ensueno/templo/Templo%204.1.jpg",
+          "width": 1200,
+          "height": 1600,
+          "format": "jpg",
+          "bytes": 277660
+        },
+        {
+          "originalPath": "templo/Templo 4.webp",
+          "filename": "Templo 4.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659781/floreria/bodas-de-ensueno/templo/Templo%204.jpg",
+          "width": 1200,
+          "height": 1600,
+          "format": "jpg",
+          "bytes": 183330
+        },
+        {
+          "originalPath": "templo/Templo 5.webp",
+          "filename": "Templo 5.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659786/floreria/bodas-de-ensueno/templo/Templo%205.jpg",
+          "width": 1200,
+          "height": 1600,
+          "format": "jpg",
+          "bytes": 381894
+        },
+        {
+          "originalPath": "templo/Templo 6.webp",
+          "filename": "Templo 6.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659790/floreria/bodas-de-ensueno/templo/Templo%206.jpg",
+          "width": 1200,
+          "height": 1596,
+          "format": "jpg",
+          "bytes": 231809
+        },
+        {
+          "originalPath": "templo/Templo 7.webp",
+          "filename": "Templo 7.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659794/floreria/bodas-de-ensueno/templo/Templo%207.jpg",
+          "width": 1200,
+          "height": 900,
+          "format": "jpg",
+          "bytes": 159337
+        },
+        {
+          "originalPath": "templo/Templo 8.webp",
+          "filename": "Templo 8.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659798/floreria/bodas-de-ensueno/templo/Templo%208.jpg",
+          "width": 1200,
+          "height": 1600,
+          "format": "jpg",
+          "bytes": 272131
+        },
+        {
+          "originalPath": "templo/Templo 9.webp",
+          "filename": "Templo 9.webp",
+          "publicId": "floreria/bodas-de-ensueno/templo/Templo 9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659803/floreria/bodas-de-ensueno/templo/Templo%209.jpg",
+          "width": 1200,
+          "height": 1059,
+          "format": "jpg",
+          "bytes": 225037
+        }
+      ],
+      "successCount": 30,
+      "failureCount": 0
+    },
+    "ramos-elegantes": {
+      "name": "Ramos Elegantes",
+      "images": [
+        {
+          "originalPath": "Ramo1.webp",
+          "filename": "Ramo1.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659807/floreria/ramos-elegantes/Ramo1.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1341205
+        },
+        {
+          "originalPath": "Ramo10.webp",
+          "filename": "Ramo10.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659820/floreria/ramos-elegantes/Ramo10.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1984605
+        },
+        {
+          "originalPath": "Ramo11.webp",
+          "filename": "Ramo11.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659828/floreria/ramos-elegantes/Ramo11.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1877009
+        },
+        {
+          "originalPath": "Ramo12.webp",
+          "filename": "Ramo12.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659836/floreria/ramos-elegantes/Ramo12.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1560557
+        },
+        {
+          "originalPath": "Ramo13.webp",
+          "filename": "Ramo13.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo13",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659848/floreria/ramos-elegantes/Ramo13.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1818757
+        },
+        {
+          "originalPath": "Ramo14.webp",
+          "filename": "Ramo14.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo14",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659857/floreria/ramos-elegantes/Ramo14.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1963697
+        },
+        {
+          "originalPath": "Ramo15.webp",
+          "filename": "Ramo15.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo15",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659865/floreria/ramos-elegantes/Ramo15.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1926218
+        },
+        {
+          "originalPath": "Ramo2.webp",
+          "filename": "Ramo2.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659873/floreria/ramos-elegantes/Ramo2.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1465649
+        },
+        {
+          "originalPath": "Ramo3.webp",
+          "filename": "Ramo3.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659883/floreria/ramos-elegantes/Ramo3.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2002295
+        },
+        {
+          "originalPath": "Ramo4.webp",
+          "filename": "Ramo4.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659889/floreria/ramos-elegantes/Ramo4.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1639808
+        },
+        {
+          "originalPath": "Ramo5.webp",
+          "filename": "Ramo5.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659898/floreria/ramos-elegantes/Ramo5.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1933081
+        },
+        {
+          "originalPath": "Ramo6.webp",
+          "filename": "Ramo6.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659905/floreria/ramos-elegantes/Ramo6.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2237498
+        },
+        {
+          "originalPath": "Ramo7.webp",
+          "filename": "Ramo7.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659913/floreria/ramos-elegantes/Ramo7.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2175167
+        },
+        {
+          "originalPath": "Ramo8.webp",
+          "filename": "Ramo8.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659920/floreria/ramos-elegantes/Ramo8.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1824125
+        },
+        {
+          "originalPath": "Ramo9.webp",
+          "filename": "Ramo9.webp",
+          "publicId": "floreria/ramos-elegantes/Ramo9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659927/floreria/ramos-elegantes/Ramo9.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2173515
+        },
+        {
+          "originalPath": "optimized/Ramo10_large_q85.jpg",
+          "filename": "Ramo10_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo10_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659937/floreria/ramos-elegantes/optimized/Ramo10_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 73060
+        },
+        {
+          "originalPath": "optimized/Ramo10_medium_q75.jpg",
+          "filename": "Ramo10_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo10_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659939/floreria/ramos-elegantes/optimized/Ramo10_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 38798
+        },
+        {
+          "originalPath": "optimized/Ramo10_small_q70.jpg",
+          "filename": "Ramo10_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo10_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659941/floreria/ramos-elegantes/optimized/Ramo10_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 18412
+        },
+        {
+          "originalPath": "optimized/Ramo11_large_q85.jpg",
+          "filename": "Ramo11_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo11_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659943/floreria/ramos-elegantes/optimized/Ramo11_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 71104
+        },
+        {
+          "originalPath": "optimized/Ramo11_medium_q75.jpg",
+          "filename": "Ramo11_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo11_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659945/floreria/ramos-elegantes/optimized/Ramo11_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 38728
+        },
+        {
+          "originalPath": "optimized/Ramo11_small_q70.jpg",
+          "filename": "Ramo11_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo11_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659947/floreria/ramos-elegantes/optimized/Ramo11_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 18957
+        },
+        {
+          "originalPath": "optimized/Ramo12_large_q85.jpg",
+          "filename": "Ramo12_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo12_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659949/floreria/ramos-elegantes/optimized/Ramo12_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 58424
+        },
+        {
+          "originalPath": "optimized/Ramo12_medium_q75.jpg",
+          "filename": "Ramo12_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo12_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659951/floreria/ramos-elegantes/optimized/Ramo12_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 31554
+        },
+        {
+          "originalPath": "optimized/Ramo12_small_q70.jpg",
+          "filename": "Ramo12_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo12_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659953/floreria/ramos-elegantes/optimized/Ramo12_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 15359
+        },
+        {
+          "originalPath": "optimized/Ramo13_large_q85.jpg",
+          "filename": "Ramo13_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo13_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659955/floreria/ramos-elegantes/optimized/Ramo13_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 65746
+        },
+        {
+          "originalPath": "optimized/Ramo13_medium_q75.jpg",
+          "filename": "Ramo13_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo13_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659957/floreria/ramos-elegantes/optimized/Ramo13_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 35848
+        },
+        {
+          "originalPath": "optimized/Ramo13_small_q70.jpg",
+          "filename": "Ramo13_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo13_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659959/floreria/ramos-elegantes/optimized/Ramo13_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 17659
+        },
+        {
+          "originalPath": "optimized/Ramo14_large_q85.jpg",
+          "filename": "Ramo14_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo14_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659960/floreria/ramos-elegantes/optimized/Ramo14_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 71221
+        },
+        {
+          "originalPath": "optimized/Ramo14_medium_q75.jpg",
+          "filename": "Ramo14_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo14_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659962/floreria/ramos-elegantes/optimized/Ramo14_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 37865
+        },
+        {
+          "originalPath": "optimized/Ramo14_small_q70.jpg",
+          "filename": "Ramo14_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo14_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659963/floreria/ramos-elegantes/optimized/Ramo14_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 18075
+        },
+        {
+          "originalPath": "optimized/Ramo15_large_q85.jpg",
+          "filename": "Ramo15_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo15_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659965/floreria/ramos-elegantes/optimized/Ramo15_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 70450
+        },
+        {
+          "originalPath": "optimized/Ramo15_medium_q75.jpg",
+          "filename": "Ramo15_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo15_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659968/floreria/ramos-elegantes/optimized/Ramo15_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 37970
+        },
+        {
+          "originalPath": "optimized/Ramo15_small_q70.jpg",
+          "filename": "Ramo15_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo15_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659969/floreria/ramos-elegantes/optimized/Ramo15_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 18036
+        },
+        {
+          "originalPath": "optimized/Ramo1_large_q85.jpg",
+          "filename": "Ramo1_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo1_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659971/floreria/ramos-elegantes/optimized/Ramo1_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 51734
+        },
+        {
+          "originalPath": "optimized/Ramo1_medium_q75.jpg",
+          "filename": "Ramo1_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo1_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659974/floreria/ramos-elegantes/optimized/Ramo1_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 28372
+        },
+        {
+          "originalPath": "optimized/Ramo1_small_q70.jpg",
+          "filename": "Ramo1_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo1_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659976/floreria/ramos-elegantes/optimized/Ramo1_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 13798
+        },
+        {
+          "originalPath": "optimized/Ramo2_large_q85.jpg",
+          "filename": "Ramo2_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo2_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659978/floreria/ramos-elegantes/optimized/Ramo2_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 54729
+        },
+        {
+          "originalPath": "optimized/Ramo2_medium_q75.jpg",
+          "filename": "Ramo2_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo2_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659981/floreria/ramos-elegantes/optimized/Ramo2_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 30456
+        },
+        {
+          "originalPath": "optimized/Ramo2_small_q70.jpg",
+          "filename": "Ramo2_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo2_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659982/floreria/ramos-elegantes/optimized/Ramo2_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 15264
+        },
+        {
+          "originalPath": "optimized/Ramo3_large_q85.jpg",
+          "filename": "Ramo3_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo3_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659984/floreria/ramos-elegantes/optimized/Ramo3_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 65451
+        },
+        {
+          "originalPath": "optimized/Ramo3_medium_q75.jpg",
+          "filename": "Ramo3_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo3_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659986/floreria/ramos-elegantes/optimized/Ramo3_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 33228
+        },
+        {
+          "originalPath": "optimized/Ramo3_small_q70.jpg",
+          "filename": "Ramo3_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo3_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659988/floreria/ramos-elegantes/optimized/Ramo3_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 16092
+        },
+        {
+          "originalPath": "optimized/Ramo4_large_q85.jpg",
+          "filename": "Ramo4_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo4_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659989/floreria/ramos-elegantes/optimized/Ramo4_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 61084
+        },
+        {
+          "originalPath": "optimized/Ramo4_medium_q75.jpg",
+          "filename": "Ramo4_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo4_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659991/floreria/ramos-elegantes/optimized/Ramo4_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 32491
+        },
+        {
+          "originalPath": "optimized/Ramo4_small_q70.jpg",
+          "filename": "Ramo4_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo4_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659993/floreria/ramos-elegantes/optimized/Ramo4_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 15708
+        },
+        {
+          "originalPath": "optimized/Ramo5_large_q85.jpg",
+          "filename": "Ramo5_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo5_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659994/floreria/ramos-elegantes/optimized/Ramo5_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 67017
+        },
+        {
+          "originalPath": "optimized/Ramo5_medium_q75.jpg",
+          "filename": "Ramo5_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo5_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659997/floreria/ramos-elegantes/optimized/Ramo5_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 35714
+        },
+        {
+          "originalPath": "optimized/Ramo5_small_q70.jpg",
+          "filename": "Ramo5_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo5_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777659999/floreria/ramos-elegantes/optimized/Ramo5_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 16967
+        },
+        {
+          "originalPath": "optimized/Ramo6_large_q85.jpg",
+          "filename": "Ramo6_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo6_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660001/floreria/ramos-elegantes/optimized/Ramo6_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 79717
+        },
+        {
+          "originalPath": "optimized/Ramo6_medium_q75.jpg",
+          "filename": "Ramo6_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo6_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660003/floreria/ramos-elegantes/optimized/Ramo6_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 42813
+        },
+        {
+          "originalPath": "optimized/Ramo6_small_q70.jpg",
+          "filename": "Ramo6_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo6_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660005/floreria/ramos-elegantes/optimized/Ramo6_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 20303
+        },
+        {
+          "originalPath": "optimized/Ramo7_large_q85.jpg",
+          "filename": "Ramo7_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo7_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660006/floreria/ramos-elegantes/optimized/Ramo7_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 76570
+        },
+        {
+          "originalPath": "optimized/Ramo7_medium_q75.jpg",
+          "filename": "Ramo7_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo7_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660009/floreria/ramos-elegantes/optimized/Ramo7_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 40081
+        },
+        {
+          "originalPath": "optimized/Ramo7_small_q70.jpg",
+          "filename": "Ramo7_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo7_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660010/floreria/ramos-elegantes/optimized/Ramo7_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 19010
+        },
+        {
+          "originalPath": "optimized/Ramo8_large_q85.jpg",
+          "filename": "Ramo8_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo8_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660012/floreria/ramos-elegantes/optimized/Ramo8_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 64058
+        },
+        {
+          "originalPath": "optimized/Ramo8_medium_q75.jpg",
+          "filename": "Ramo8_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo8_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660014/floreria/ramos-elegantes/optimized/Ramo8_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 34092
+        },
+        {
+          "originalPath": "optimized/Ramo8_small_q70.jpg",
+          "filename": "Ramo8_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo8_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660015/floreria/ramos-elegantes/optimized/Ramo8_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 16417
+        },
+        {
+          "originalPath": "optimized/Ramo9_large_q85.jpg",
+          "filename": "Ramo9_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo9_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660017/floreria/ramos-elegantes/optimized/Ramo9_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 69126
+        },
+        {
+          "originalPath": "optimized/Ramo9_medium_q75.jpg",
+          "filename": "Ramo9_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo9_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660019/floreria/ramos-elegantes/optimized/Ramo9_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 39211
+        },
+        {
+          "originalPath": "optimized/Ramo9_small_q70.jpg",
+          "filename": "Ramo9_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/Ramo9_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660021/floreria/ramos-elegantes/optimized/Ramo9_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 18878
+        },
+        {
+          "originalPath": "optimized/ramo16_large_q85.jpg",
+          "filename": "ramo16_large_q85.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/ramo16_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660023/floreria/ramos-elegantes/optimized/ramo16_large_q85.jpg",
+          "width": 600,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 81687
+        },
+        {
+          "originalPath": "optimized/ramo16_medium_q75.jpg",
+          "filename": "ramo16_medium_q75.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/ramo16_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660025/floreria/ramos-elegantes/optimized/ramo16_medium_q75.jpg",
+          "width": 450,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 42498
+        },
+        {
+          "originalPath": "optimized/ramo16_small_q70.jpg",
+          "filename": "ramo16_small_q70.jpg",
+          "publicId": "floreria/ramos-elegantes/optimized/ramo16_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660028/floreria/ramos-elegantes/optimized/ramo16_small_q70.jpg",
+          "width": 300,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 19775
+        },
+        {
+          "originalPath": "ramo16.webp",
+          "filename": "ramo16.webp",
+          "publicId": "floreria/ramos-elegantes/ramo16",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660030/floreria/ramos-elegantes/ramo16.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2192987
+        }
+      ],
+      "successCount": 64,
+      "failureCount": 0
+    },
+    "ramos-clasicos": {
+      "name": "Ramos Clásicos",
+      "images": [
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado1.webp",
+          "filename": "ramo-estilizado1.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660037/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1472966
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado10.webp",
+          "filename": "ramo-estilizado10.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660059/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1810455
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado11.webp",
+          "filename": "ramo-estilizado11.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660067/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1676381
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado12.webp",
+          "filename": "ramo-estilizado12.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660075/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado12.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1651882
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado13.webp",
+          "filename": "ramo-estilizado13.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado13",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660089/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado13.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1578162
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado2.webp",
+          "filename": "ramo-estilizado2.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660106/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2273944
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado3.webp",
+          "filename": "ramo-estilizado3.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660116/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1617860
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado4.webp",
+          "filename": "ramo-estilizado4.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660129/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 389632
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado5.webp",
+          "filename": "ramo-estilizado5.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660141/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1813715
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado6.webp",
+          "filename": "ramo-estilizado6.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660151/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1694140
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado7.webp",
+          "filename": "ramo-estilizado7.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660163/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1539338
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado8.webp",
+          "filename": "ramo-estilizado8.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660178/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1714597
+        },
+        {
+          "originalPath": "ramoEstilizado/ramo-estilizado9.webp",
+          "filename": "ramo-estilizado9.webp",
+          "publicId": "floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660191/floreria/ramos-clasicos/ramoEstilizado/ramo-estilizado9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1854837
+        },
+        {
+          "originalPath": "ramoGirasoles/ramo-girasoles1.webp",
+          "filename": "ramo-girasoles1.webp",
+          "publicId": "floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660202/floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2014224
+        },
+        {
+          "originalPath": "ramoGirasoles/ramo-girasoles2.webp",
+          "filename": "ramo-girasoles2.webp",
+          "publicId": "floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660213/floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1798461
+        },
+        {
+          "originalPath": "ramoGirasoles/ramo-girasoles3.webp",
+          "filename": "ramo-girasoles3.webp",
+          "publicId": "floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660223/floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 455005
+        },
+        {
+          "originalPath": "ramoGirasoles/ramo-girasoles4.webp",
+          "filename": "ramo-girasoles4.webp",
+          "publicId": "floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660239/floreria/ramos-clasicos/ramoGirasoles/ramo-girasoles4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2111060
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix10.webp",
+          "filename": "ramo-mix10.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660250/floreria/ramos-clasicos/ramoMix/ramo-mix10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 386544
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix1png.webp",
+          "filename": "ramo-mix1png.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix1png",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660262/floreria/ramos-clasicos/ramoMix/ramo-mix1png.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1679918
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix2.webp",
+          "filename": "ramo-mix2.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660274/floreria/ramos-clasicos/ramoMix/ramo-mix2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1628300
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix3.webp",
+          "filename": "ramo-mix3.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660283/floreria/ramos-clasicos/ramoMix/ramo-mix3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1473370
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix4.webp",
+          "filename": "ramo-mix4.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660303/floreria/ramos-clasicos/ramoMix/ramo-mix4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1660330
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix5.webp",
+          "filename": "ramo-mix5.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660312/floreria/ramos-clasicos/ramoMix/ramo-mix5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1790056
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix6.webp",
+          "filename": "ramo-mix6.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660322/floreria/ramos-clasicos/ramoMix/ramo-mix6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1658713
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix7.webp",
+          "filename": "ramo-mix7.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660330/floreria/ramos-clasicos/ramoMix/ramo-mix7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1584573
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix8.webp",
+          "filename": "ramo-mix8.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660342/floreria/ramos-clasicos/ramoMix/ramo-mix8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1256186
+        },
+        {
+          "originalPath": "ramoMix/ramo-mix9.webp",
+          "filename": "ramo-mix9.webp",
+          "publicId": "floreria/ramos-clasicos/ramoMix/ramo-mix9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660364/floreria/ramos-clasicos/ramoMix/ramo-mix9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2111121
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas1.webp",
+          "filename": "ramo-rosas1.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660378/floreria/ramos-clasicos/ramoRosas/ramo-rosas1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1629872
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas11.webp",
+          "filename": "ramo-rosas11.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660386/floreria/ramos-clasicos/ramoRosas/ramo-rosas11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1316822
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas2.webp",
+          "filename": "ramo-rosas2.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660407/floreria/ramos-clasicos/ramoRosas/ramo-rosas2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1627399
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas3.webp",
+          "filename": "ramo-rosas3.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660418/floreria/ramos-clasicos/ramoRosas/ramo-rosas3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3084186
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas4.webp",
+          "filename": "ramo-rosas4.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660429/floreria/ramos-clasicos/ramoRosas/ramo-rosas4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1986130
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas5.webp",
+          "filename": "ramo-rosas5.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660441/floreria/ramos-clasicos/ramoRosas/ramo-rosas5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1797341
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas6.webp",
+          "filename": "ramo-rosas6.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660449/floreria/ramos-clasicos/ramoRosas/ramo-rosas6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1638345
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas7.webp",
+          "filename": "ramo-rosas7.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660461/floreria/ramos-clasicos/ramoRosas/ramo-rosas7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1781519
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas8.webp",
+          "filename": "ramo-rosas8.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660470/floreria/ramos-clasicos/ramoRosas/ramo-rosas8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1878614
+        },
+        {
+          "originalPath": "ramoRosas/ramo-rosas9.webp",
+          "filename": "ramo-rosas9.webp",
+          "publicId": "floreria/ramos-clasicos/ramoRosas/ramo-rosas9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660481/floreria/ramos-clasicos/ramoRosas/ramo-rosas9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1944215
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes1.webp",
+          "filename": "ramo-tulipanes1.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660489/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 464566
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes2.webp",
+          "filename": "ramo-tulipanes2.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660501/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1413999
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes3.webp",
+          "filename": "ramo-tulipanes3.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660526/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2001050
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes4.webp",
+          "filename": "ramo-tulipanes4.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660537/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1738353
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes5.webp",
+          "filename": "ramo-tulipanes5.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660545/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1510989
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes6.webp",
+          "filename": "ramo-tulipanes6.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660569/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1621341
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes7.webp",
+          "filename": "ramo-tulipanes7.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660581/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1651132
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes8.webp",
+          "filename": "ramo-tulipanes8.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660591/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1720475
+        },
+        {
+          "originalPath": "ramoTulipanes/ramo-tulipanes9.webp",
+          "filename": "ramo-tulipanes9.webp",
+          "publicId": "floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660601/floreria/ramos-clasicos/ramoTulipanes/ramo-tulipanes9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1975175
+        }
+      ],
+      "successCount": 46,
+      "failureCount": 0
+    },
+    "celebraciones-especiales": {
+      "name": "Celebraciones Especiales",
+      "images": [
+        {
+          "originalPath": "canastasFlores/canasta1.webp",
+          "filename": "canasta1.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660610/floreria/celebraciones-especiales/canastasFlores/canasta1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1952114
+        },
+        {
+          "originalPath": "canastasFlores/canasta10.webp",
+          "filename": "canasta10.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660620/floreria/celebraciones-especiales/canastasFlores/canasta10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1940632
+        },
+        {
+          "originalPath": "canastasFlores/canasta11.webp",
+          "filename": "canasta11.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660629/floreria/celebraciones-especiales/canastasFlores/canasta11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1978419
+        },
+        {
+          "originalPath": "canastasFlores/canasta12.webp",
+          "filename": "canasta12.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660637/floreria/celebraciones-especiales/canastasFlores/canasta12.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2446992
+        },
+        {
+          "originalPath": "canastasFlores/canasta2.webp",
+          "filename": "canasta2.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660648/floreria/celebraciones-especiales/canastasFlores/canasta2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1516098
+        },
+        {
+          "originalPath": "canastasFlores/canasta3.webp",
+          "filename": "canasta3.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660667/floreria/celebraciones-especiales/canastasFlores/canasta3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1961265
+        },
+        {
+          "originalPath": "canastasFlores/canasta4.webp",
+          "filename": "canasta4.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660676/floreria/celebraciones-especiales/canastasFlores/canasta4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2360170
+        },
+        {
+          "originalPath": "canastasFlores/canasta5.webp",
+          "filename": "canasta5.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660686/floreria/celebraciones-especiales/canastasFlores/canasta5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1862318
+        },
+        {
+          "originalPath": "canastasFlores/canasta6.webp",
+          "filename": "canasta6.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660695/floreria/celebraciones-especiales/canastasFlores/canasta6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1846883
+        },
+        {
+          "originalPath": "canastasFlores/canasta7.webp",
+          "filename": "canasta7.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660703/floreria/celebraciones-especiales/canastasFlores/canasta7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2256583
+        },
+        {
+          "originalPath": "canastasFlores/canasta8.webp",
+          "filename": "canasta8.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660712/floreria/celebraciones-especiales/canastasFlores/canasta8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2269473
+        },
+        {
+          "originalPath": "canastasFlores/canasta9.webp",
+          "filename": "canasta9.webp",
+          "publicId": "floreria/celebraciones-especiales/canastasFlores/canasta9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660724/floreria/celebraciones-especiales/canastasFlores/canasta9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1991168
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa1.webp",
+          "filename": "centro-mesa1.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660733/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2365510
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa10.webp",
+          "filename": "centro-mesa10.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660743/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2849729
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa11.webp",
+          "filename": "centro-mesa11.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660751/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1640066
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa12.webp",
+          "filename": "centro-mesa12.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660762/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa12.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1925262
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa2.webp",
+          "filename": "centro-mesa2.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660771/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2303091
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa3.webp",
+          "filename": "centro-mesa3.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660781/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2172479
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa4.webp",
+          "filename": "centro-mesa4.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660791/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1856052
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa5.webp",
+          "filename": "centro-mesa5.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660801/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1870097
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa6.webp",
+          "filename": "centro-mesa6.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660811/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2123191
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa7.webp",
+          "filename": "centro-mesa7.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660824/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1753662
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa8.webp",
+          "filename": "centro-mesa8.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660840/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1286931
+        },
+        {
+          "originalPath": "centrosDeMesaFestivos/centro-mesa9.webp",
+          "filename": "centro-mesa9.webp",
+          "publicId": "floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660855/floreria/celebraciones-especiales/centrosDeMesaFestivos/centro-mesa9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1697960
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon.webp",
+          "filename": "detalle-forma-corazon.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660865/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 704993
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon1.webp",
+          "filename": "detalle-forma-corazon1.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660885/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2495659
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon10.webp",
+          "filename": "detalle-forma-corazon10.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660895/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 567071
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon11.webp",
+          "filename": "detalle-forma-corazon11.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660916/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1876024
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon2.webp",
+          "filename": "detalle-forma-corazon2.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660930/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1829942
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon3.webp",
+          "filename": "detalle-forma-corazon3.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660939/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1768842
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon4.webp",
+          "filename": "detalle-forma-corazon4.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660947/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2108326
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon5.webp",
+          "filename": "detalle-forma-corazon5.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660960/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1798026
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon6.webp",
+          "filename": "detalle-forma-corazon6.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660968/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2056369
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon7.webp",
+          "filename": "detalle-forma-corazon7.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660979/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2127972
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon8.webp",
+          "filename": "detalle-forma-corazon8.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660988/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2085748
+        },
+        {
+          "originalPath": "detallesEnFormaDeCorazon/detalle-forma-corazon9.webp",
+          "filename": "detalle-forma-corazon9.webp",
+          "publicId": "floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777660998/floreria/celebraciones-especiales/detallesEnFormaDeCorazon/detalle-forma-corazon9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 242402
+        }
+      ],
+      "successCount": 36,
+      "failureCount": 0
+    },
+    "cumpleanos": {
+      "name": "Cumpleaños",
+      "images": [
+        {
+          "originalPath": "cumpleanos1.webp",
+          "filename": "cumpleanos1.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661009/floreria/cumpleanos/cumpleanos1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1314026
+        },
+        {
+          "originalPath": "cumpleanos10.webp",
+          "filename": "cumpleanos10.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661026/floreria/cumpleanos/cumpleanos10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2059565
+        },
+        {
+          "originalPath": "cumpleanos11.webp",
+          "filename": "cumpleanos11.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661035/floreria/cumpleanos/cumpleanos11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1705057
+        },
+        {
+          "originalPath": "cumpleanos12.webp",
+          "filename": "cumpleanos12.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661046/floreria/cumpleanos/cumpleanos12.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2268689
+        },
+        {
+          "originalPath": "cumpleanos13.webp",
+          "filename": "cumpleanos13.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos13",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661057/floreria/cumpleanos/cumpleanos13.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2197196
+        },
+        {
+          "originalPath": "cumpleanos14.webp",
+          "filename": "cumpleanos14.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos14",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661066/floreria/cumpleanos/cumpleanos14.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2177948
+        },
+        {
+          "originalPath": "cumpleanos15.webp",
+          "filename": "cumpleanos15.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos15",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661076/floreria/cumpleanos/cumpleanos15.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1649387
+        },
+        {
+          "originalPath": "cumpleanos16.webp",
+          "filename": "cumpleanos16.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos16",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661087/floreria/cumpleanos/cumpleanos16.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1916517
+        },
+        {
+          "originalPath": "cumpleanos17.webp",
+          "filename": "cumpleanos17.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos17",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661097/floreria/cumpleanos/cumpleanos17.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1475467
+        },
+        {
+          "originalPath": "cumpleanos18.webp",
+          "filename": "cumpleanos18.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos18",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661114/floreria/cumpleanos/cumpleanos18.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2486809
+        },
+        {
+          "originalPath": "cumpleanos2.webp",
+          "filename": "cumpleanos2.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661124/floreria/cumpleanos/cumpleanos2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1442179
+        },
+        {
+          "originalPath": "cumpleanos3.webp",
+          "filename": "cumpleanos3.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661141/floreria/cumpleanos/cumpleanos3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2219108
+        },
+        {
+          "originalPath": "cumpleanos4.webp",
+          "filename": "cumpleanos4.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661155/floreria/cumpleanos/cumpleanos4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1756431
+        },
+        {
+          "originalPath": "cumpleanos5.webp",
+          "filename": "cumpleanos5.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661165/floreria/cumpleanos/cumpleanos5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1025097
+        },
+        {
+          "originalPath": "cumpleanos6.webp",
+          "filename": "cumpleanos6.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661184/floreria/cumpleanos/cumpleanos6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1843499
+        },
+        {
+          "originalPath": "cumpleanos7png.webp",
+          "filename": "cumpleanos7png.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos7png",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661192/floreria/cumpleanos/cumpleanos7png.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1318916
+        },
+        {
+          "originalPath": "cumpleanos8.webp",
+          "filename": "cumpleanos8.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661210/floreria/cumpleanos/cumpleanos8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2461907
+        },
+        {
+          "originalPath": "cumpleanos9.webp",
+          "filename": "cumpleanos9.webp",
+          "publicId": "floreria/cumpleanos/cumpleanos9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661222/floreria/cumpleanos/cumpleanos9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1986105
+        },
+        {
+          "originalPath": "optimized/cumpleanos10_large_q85.jpg",
+          "filename": "cumpleanos10_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos10_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661232/floreria/cumpleanos/optimized/cumpleanos10_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 49648
+        },
+        {
+          "originalPath": "optimized/cumpleanos10_medium_q75.jpg",
+          "filename": "cumpleanos10_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos10_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661234/floreria/cumpleanos/optimized/cumpleanos10_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 26007
+        },
+        {
+          "originalPath": "optimized/cumpleanos10_small_q70.jpg",
+          "filename": "cumpleanos10_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos10_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661236/floreria/cumpleanos/optimized/cumpleanos10_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 12620
+        },
+        {
+          "originalPath": "optimized/cumpleanos11_large_q85.jpg",
+          "filename": "cumpleanos11_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos11_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661238/floreria/cumpleanos/optimized/cumpleanos11_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 43773
+        },
+        {
+          "originalPath": "optimized/cumpleanos11_medium_q75.jpg",
+          "filename": "cumpleanos11_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos11_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661240/floreria/cumpleanos/optimized/cumpleanos11_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 23160
+        },
+        {
+          "originalPath": "optimized/cumpleanos11_small_q70.jpg",
+          "filename": "cumpleanos11_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos11_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661243/floreria/cumpleanos/optimized/cumpleanos11_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 11047
+        },
+        {
+          "originalPath": "optimized/cumpleanos12_large_q85.jpg",
+          "filename": "cumpleanos12_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos12_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661244/floreria/cumpleanos/optimized/cumpleanos12_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 54729
+        },
+        {
+          "originalPath": "optimized/cumpleanos12_medium_q75.jpg",
+          "filename": "cumpleanos12_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos12_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661247/floreria/cumpleanos/optimized/cumpleanos12_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 28452
+        },
+        {
+          "originalPath": "optimized/cumpleanos12_small_q70.jpg",
+          "filename": "cumpleanos12_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos12_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661248/floreria/cumpleanos/optimized/cumpleanos12_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 13436
+        },
+        {
+          "originalPath": "optimized/cumpleanos13_large_q85.jpg",
+          "filename": "cumpleanos13_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos13_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661249/floreria/cumpleanos/optimized/cumpleanos13_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 55587
+        },
+        {
+          "originalPath": "optimized/cumpleanos13_medium_q75.jpg",
+          "filename": "cumpleanos13_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos13_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661252/floreria/cumpleanos/optimized/cumpleanos13_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 29492
+        },
+        {
+          "originalPath": "optimized/cumpleanos13_small_q70.jpg",
+          "filename": "cumpleanos13_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos13_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661254/floreria/cumpleanos/optimized/cumpleanos13_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 14115
+        },
+        {
+          "originalPath": "optimized/cumpleanos14_large_q85.jpg",
+          "filename": "cumpleanos14_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos14_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661256/floreria/cumpleanos/optimized/cumpleanos14_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 54359
+        },
+        {
+          "originalPath": "optimized/cumpleanos14_medium_q75.jpg",
+          "filename": "cumpleanos14_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos14_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661258/floreria/cumpleanos/optimized/cumpleanos14_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 28487
+        },
+        {
+          "originalPath": "optimized/cumpleanos14_small_q70.jpg",
+          "filename": "cumpleanos14_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos14_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661260/floreria/cumpleanos/optimized/cumpleanos14_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 13387
+        },
+        {
+          "originalPath": "optimized/cumpleanos15_large_q85.jpg",
+          "filename": "cumpleanos15_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos15_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661262/floreria/cumpleanos/optimized/cumpleanos15_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 40896
+        },
+        {
+          "originalPath": "optimized/cumpleanos15_medium_q75.jpg",
+          "filename": "cumpleanos15_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos15_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661264/floreria/cumpleanos/optimized/cumpleanos15_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 21197
+        },
+        {
+          "originalPath": "optimized/cumpleanos15_small_q70.jpg",
+          "filename": "cumpleanos15_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos15_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661267/floreria/cumpleanos/optimized/cumpleanos15_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 10080
+        },
+        {
+          "originalPath": "optimized/cumpleanos16_large_q85.jpg",
+          "filename": "cumpleanos16_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos16_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661270/floreria/cumpleanos/optimized/cumpleanos16_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 47023
+        },
+        {
+          "originalPath": "optimized/cumpleanos16_medium_q75.jpg",
+          "filename": "cumpleanos16_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos16_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661271/floreria/cumpleanos/optimized/cumpleanos16_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 25619
+        },
+        {
+          "originalPath": "optimized/cumpleanos16_small_q70.jpg",
+          "filename": "cumpleanos16_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos16_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661273/floreria/cumpleanos/optimized/cumpleanos16_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 12363
+        },
+        {
+          "originalPath": "optimized/cumpleanos17_large_q85.jpg",
+          "filename": "cumpleanos17_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos17_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661274/floreria/cumpleanos/optimized/cumpleanos17_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 35490
+        },
+        {
+          "originalPath": "optimized/cumpleanos17_medium_q75.jpg",
+          "filename": "cumpleanos17_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos17_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661276/floreria/cumpleanos/optimized/cumpleanos17_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 19095
+        },
+        {
+          "originalPath": "optimized/cumpleanos17_small_q70.jpg",
+          "filename": "cumpleanos17_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos17_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661277/floreria/cumpleanos/optimized/cumpleanos17_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 9255
+        },
+        {
+          "originalPath": "optimized/cumpleanos18_large_q85.jpg",
+          "filename": "cumpleanos18_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos18_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661279/floreria/cumpleanos/optimized/cumpleanos18_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 60676
+        },
+        {
+          "originalPath": "optimized/cumpleanos18_medium_q75.jpg",
+          "filename": "cumpleanos18_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos18_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661282/floreria/cumpleanos/optimized/cumpleanos18_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 31711
+        },
+        {
+          "originalPath": "optimized/cumpleanos18_small_q70.jpg",
+          "filename": "cumpleanos18_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos18_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661283/floreria/cumpleanos/optimized/cumpleanos18_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 14946
+        },
+        {
+          "originalPath": "optimized/cumpleanos1_large_q85.jpg",
+          "filename": "cumpleanos1_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos1_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661285/floreria/cumpleanos/optimized/cumpleanos1_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 31366
+        },
+        {
+          "originalPath": "optimized/cumpleanos1_medium_q75.jpg",
+          "filename": "cumpleanos1_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos1_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661287/floreria/cumpleanos/optimized/cumpleanos1_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 17356
+        },
+        {
+          "originalPath": "optimized/cumpleanos1_small_q70.jpg",
+          "filename": "cumpleanos1_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos1_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661289/floreria/cumpleanos/optimized/cumpleanos1_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 8452
+        },
+        {
+          "originalPath": "optimized/cumpleanos2_large_q85.jpg",
+          "filename": "cumpleanos2_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos2_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661291/floreria/cumpleanos/optimized/cumpleanos2_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 34734
+        },
+        {
+          "originalPath": "optimized/cumpleanos2_medium_q75.jpg",
+          "filename": "cumpleanos2_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos2_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661294/floreria/cumpleanos/optimized/cumpleanos2_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 18411
+        },
+        {
+          "originalPath": "optimized/cumpleanos2_small_q70.jpg",
+          "filename": "cumpleanos2_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos2_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661295/floreria/cumpleanos/optimized/cumpleanos2_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 8908
+        },
+        {
+          "originalPath": "optimized/cumpleanos3_large_q85.jpg",
+          "filename": "cumpleanos3_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos3_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661298/floreria/cumpleanos/optimized/cumpleanos3_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 51142
+        },
+        {
+          "originalPath": "optimized/cumpleanos3_medium_q75.jpg",
+          "filename": "cumpleanos3_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos3_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661299/floreria/cumpleanos/optimized/cumpleanos3_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 29456
+        },
+        {
+          "originalPath": "optimized/cumpleanos3_small_q70.jpg",
+          "filename": "cumpleanos3_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos3_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661302/floreria/cumpleanos/optimized/cumpleanos3_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 14336
+        },
+        {
+          "originalPath": "optimized/cumpleanos4_large_q85.jpg",
+          "filename": "cumpleanos4_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos4_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661304/floreria/cumpleanos/optimized/cumpleanos4_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 47713
+        },
+        {
+          "originalPath": "optimized/cumpleanos4_medium_q75.jpg",
+          "filename": "cumpleanos4_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos4_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661305/floreria/cumpleanos/optimized/cumpleanos4_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 26732
+        },
+        {
+          "originalPath": "optimized/cumpleanos4_small_q70.jpg",
+          "filename": "cumpleanos4_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos4_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661307/floreria/cumpleanos/optimized/cumpleanos4_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 12983
+        },
+        {
+          "originalPath": "optimized/cumpleanos5_large_q85.jpg",
+          "filename": "cumpleanos5_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos5_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661309/floreria/cumpleanos/optimized/cumpleanos5_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 26751
+        },
+        {
+          "originalPath": "optimized/cumpleanos5_medium_q75.jpg",
+          "filename": "cumpleanos5_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos5_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661310/floreria/cumpleanos/optimized/cumpleanos5_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 14557
+        },
+        {
+          "originalPath": "optimized/cumpleanos5_small_q70.jpg",
+          "filename": "cumpleanos5_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos5_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661312/floreria/cumpleanos/optimized/cumpleanos5_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 7115
+        },
+        {
+          "originalPath": "optimized/cumpleanos6_large_q85.jpg",
+          "filename": "cumpleanos6_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos6_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661313/floreria/cumpleanos/optimized/cumpleanos6_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 45397
+        },
+        {
+          "originalPath": "optimized/cumpleanos6_medium_q75.jpg",
+          "filename": "cumpleanos6_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos6_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661315/floreria/cumpleanos/optimized/cumpleanos6_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 25095
+        },
+        {
+          "originalPath": "optimized/cumpleanos6_small_q70.jpg",
+          "filename": "cumpleanos6_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos6_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661317/floreria/cumpleanos/optimized/cumpleanos6_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 12157
+        },
+        {
+          "originalPath": "optimized/cumpleanos7png_large_q85.jpg",
+          "filename": "cumpleanos7png_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos7png_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661319/floreria/cumpleanos/optimized/cumpleanos7png_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 36982
+        },
+        {
+          "originalPath": "optimized/cumpleanos7png_medium_q75.jpg",
+          "filename": "cumpleanos7png_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos7png_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661321/floreria/cumpleanos/optimized/cumpleanos7png_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 19772
+        },
+        {
+          "originalPath": "optimized/cumpleanos7png_small_q70.jpg",
+          "filename": "cumpleanos7png_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos7png_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661322/floreria/cumpleanos/optimized/cumpleanos7png_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 9657
+        },
+        {
+          "originalPath": "optimized/cumpleanos8_large_q85.jpg",
+          "filename": "cumpleanos8_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos8_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661326/floreria/cumpleanos/optimized/cumpleanos8_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 61524
+        },
+        {
+          "originalPath": "optimized/cumpleanos8_medium_q75.jpg",
+          "filename": "cumpleanos8_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos8_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661328/floreria/cumpleanos/optimized/cumpleanos8_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 32584
+        },
+        {
+          "originalPath": "optimized/cumpleanos8_small_q70.jpg",
+          "filename": "cumpleanos8_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos8_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661330/floreria/cumpleanos/optimized/cumpleanos8_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 15392
+        },
+        {
+          "originalPath": "optimized/cumpleanos9_large_q85.jpg",
+          "filename": "cumpleanos9_large_q85.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos9_large_q85",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661331/floreria/cumpleanos/optimized/cumpleanos9_large_q85.jpg",
+          "width": 450,
+          "height": 800,
+          "format": "jpg",
+          "bytes": 51180
+        },
+        {
+          "originalPath": "optimized/cumpleanos9_medium_q75.jpg",
+          "filename": "cumpleanos9_medium_q75.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos9_medium_q75",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661333/floreria/cumpleanos/optimized/cumpleanos9_medium_q75.jpg",
+          "width": 337,
+          "height": 600,
+          "format": "jpg",
+          "bytes": 28666
+        },
+        {
+          "originalPath": "optimized/cumpleanos9_small_q70.jpg",
+          "filename": "cumpleanos9_small_q70.jpg",
+          "publicId": "floreria/cumpleanos/optimized/cumpleanos9_small_q70",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661335/floreria/cumpleanos/optimized/cumpleanos9_small_q70.jpg",
+          "width": 225,
+          "height": 400,
+          "format": "jpg",
+          "bytes": 13911
+        }
+      ],
+      "successCount": 72,
+      "failureCount": 0
+    },
+    "eventos-religiosos": {
+      "name": "Eventos Religiosos",
+      "images": [
+        {
+          "originalPath": "arregloDeTemplo/templo1.webp",
+          "filename": "templo1.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661337/floreria/eventos-religiosos/arregloDeTemplo/templo1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3108003
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo10.webp",
+          "filename": "templo10.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661348/floreria/eventos-religiosos/arregloDeTemplo/templo10.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3476726
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo11.webp",
+          "filename": "templo11.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661361/floreria/eventos-religiosos/arregloDeTemplo/templo11.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3131599
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo12.webp",
+          "filename": "templo12.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661372/floreria/eventos-religiosos/arregloDeTemplo/templo12.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2977966
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo13.webp",
+          "filename": "templo13.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo13",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661383/floreria/eventos-religiosos/arregloDeTemplo/templo13.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3415117
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo14.webp",
+          "filename": "templo14.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo14",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661394/floreria/eventos-religiosos/arregloDeTemplo/templo14.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3293962
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo15.webp",
+          "filename": "templo15.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo15",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661402/floreria/eventos-religiosos/arregloDeTemplo/templo15.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1406443
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo16.webp",
+          "filename": "templo16.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo16",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661427/floreria/eventos-religiosos/arregloDeTemplo/templo16.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2105957
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo17.webp",
+          "filename": "templo17.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo17",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661443/floreria/eventos-religiosos/arregloDeTemplo/templo17.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 380714
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo18.webp",
+          "filename": "templo18.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo18",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661456/floreria/eventos-religiosos/arregloDeTemplo/templo18.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 487695
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo19.webp",
+          "filename": "templo19.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo19",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661471/floreria/eventos-religiosos/arregloDeTemplo/templo19.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2842682
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo2.webp",
+          "filename": "templo2.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661481/floreria/eventos-religiosos/arregloDeTemplo/templo2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3331326
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo20.webp",
+          "filename": "templo20.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo20",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661489/floreria/eventos-religiosos/arregloDeTemplo/templo20.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2628858
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo21.webp",
+          "filename": "templo21.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo21",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661496/floreria/eventos-religiosos/arregloDeTemplo/templo21.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 604183
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo23.webp",
+          "filename": "templo23.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo23",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661512/floreria/eventos-religiosos/arregloDeTemplo/templo23.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3525825
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo3.webp",
+          "filename": "templo3.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661526/floreria/eventos-religiosos/arregloDeTemplo/templo3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 4282105
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo4.webp",
+          "filename": "templo4.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661534/floreria/eventos-religiosos/arregloDeTemplo/templo4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1713688
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo5.webp",
+          "filename": "templo5.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661547/floreria/eventos-religiosos/arregloDeTemplo/templo5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1772731
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo6.webp",
+          "filename": "templo6.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661558/floreria/eventos-religiosos/arregloDeTemplo/templo6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3063597
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo7.webp",
+          "filename": "templo7.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661569/floreria/eventos-religiosos/arregloDeTemplo/templo7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2792716
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo8.webp",
+          "filename": "templo8.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661584/floreria/eventos-religiosos/arregloDeTemplo/templo8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3152305
+        },
+        {
+          "originalPath": "arregloDeTemplo/templo9.webp",
+          "filename": "templo9.webp",
+          "publicId": "floreria/eventos-religiosos/arregloDeTemplo/templo9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661596/floreria/eventos-religiosos/arregloDeTemplo/templo9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2923518
+        },
+        {
+          "originalPath": "bautizo/bautizo1.webp",
+          "filename": "bautizo1.webp",
+          "publicId": "floreria/eventos-religiosos/bautizo/bautizo1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661609/floreria/eventos-religiosos/bautizo/bautizo1.jpg",
+          "width": 1200,
+          "height": 1228,
+          "format": "jpg",
+          "bytes": 211396
+        },
+        {
+          "originalPath": "bautizo/bautizo2.webp",
+          "filename": "bautizo2.webp",
+          "publicId": "floreria/eventos-religiosos/bautizo/bautizo2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661614/floreria/eventos-religiosos/bautizo/bautizo2.jpg",
+          "width": 1200,
+          "height": 1242,
+          "format": "jpg",
+          "bytes": 167775
+        },
+        {
+          "originalPath": "bautizo/bautizo3.webp",
+          "filename": "bautizo3.webp",
+          "publicId": "floreria/eventos-religiosos/bautizo/bautizo3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661617/floreria/eventos-religiosos/bautizo/bautizo3.jpg",
+          "width": 1200,
+          "height": 848,
+          "format": "jpg",
+          "bytes": 167127
+        },
+        {
+          "originalPath": "bautizo/bautizo4.webp",
+          "filename": "bautizo4.webp",
+          "publicId": "floreria/eventos-religiosos/bautizo/bautizo4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661622/floreria/eventos-religiosos/bautizo/bautizo4.jpg",
+          "width": 1200,
+          "height": 1195,
+          "format": "jpg",
+          "bytes": 174546
+        },
+        {
+          "originalPath": "hermita/hermita1.webp",
+          "filename": "hermita1.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661626/floreria/eventos-religiosos/hermita/hermita1.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 4035087
+        },
+        {
+          "originalPath": "hermita/hermita2.webp",
+          "filename": "hermita2.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661639/floreria/eventos-religiosos/hermita/hermita2.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1787403
+        },
+        {
+          "originalPath": "hermita/hermita3.webp",
+          "filename": "hermita3.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661649/floreria/eventos-religiosos/hermita/hermita3.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3606032
+        },
+        {
+          "originalPath": "hermita/hermita4.webp",
+          "filename": "hermita4.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661659/floreria/eventos-religiosos/hermita/hermita4.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 814379
+        },
+        {
+          "originalPath": "hermita/hermita5.webp",
+          "filename": "hermita5.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661676/floreria/eventos-religiosos/hermita/hermita5.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 1924201
+        },
+        {
+          "originalPath": "hermita/hermita6.webp",
+          "filename": "hermita6.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661686/floreria/eventos-religiosos/hermita/hermita6.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2833302
+        },
+        {
+          "originalPath": "hermita/hermita7.webp",
+          "filename": "hermita7.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661700/floreria/eventos-religiosos/hermita/hermita7.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2047278
+        },
+        {
+          "originalPath": "hermita/hermita8.webp",
+          "filename": "hermita8.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661712/floreria/eventos-religiosos/hermita/hermita8.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 2693516
+        },
+        {
+          "originalPath": "hermita/hermita9.webp",
+          "filename": "hermita9.webp",
+          "publicId": "floreria/eventos-religiosos/hermita/hermita9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661722/floreria/eventos-religiosos/hermita/hermita9.png",
+          "width": 1200,
+          "height": 2134,
+          "format": "png",
+          "bytes": 3416368
+        }
+      ],
+      "successCount": 35,
+      "failureCount": 0
+    },
+    "galeria-funeraria": {
+      "name": "Para Recordar y...",
+      "images": [
+        {
+          "originalPath": "coronas/Corona1.webp",
+          "filename": "Corona1.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661733/floreria/galeria-funeraria/coronas/Corona1.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 743495
+        },
+        {
+          "originalPath": "coronas/Corona10.webp",
+          "filename": "Corona10.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661746/floreria/galeria-funeraria/coronas/Corona10.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 658858
+        },
+        {
+          "originalPath": "coronas/Corona11.webp",
+          "filename": "Corona11.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661756/floreria/galeria-funeraria/coronas/Corona11.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 831944
+        },
+        {
+          "originalPath": "coronas/Corona12.webp",
+          "filename": "Corona12.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661767/floreria/galeria-funeraria/coronas/Corona12.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 693455
+        },
+        {
+          "originalPath": "coronas/Corona13.webp",
+          "filename": "Corona13.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona13",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661780/floreria/galeria-funeraria/coronas/Corona13.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 691378
+        },
+        {
+          "originalPath": "coronas/Corona14.webp",
+          "filename": "Corona14.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona14",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661790/floreria/galeria-funeraria/coronas/Corona14.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 834819
+        },
+        {
+          "originalPath": "coronas/Corona15.webp",
+          "filename": "Corona15.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona15",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661802/floreria/galeria-funeraria/coronas/Corona15.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 504277
+        },
+        {
+          "originalPath": "coronas/Corona16.webp",
+          "filename": "Corona16.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona16",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661813/floreria/galeria-funeraria/coronas/Corona16.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 777583
+        },
+        {
+          "originalPath": "coronas/Corona17.webp",
+          "filename": "Corona17.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona17",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661824/floreria/galeria-funeraria/coronas/Corona17.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 977807
+        },
+        {
+          "originalPath": "coronas/Corona18.webp",
+          "filename": "Corona18.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona18",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661837/floreria/galeria-funeraria/coronas/Corona18.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 996225
+        },
+        {
+          "originalPath": "coronas/Corona19.webp",
+          "filename": "Corona19.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona19",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661847/floreria/galeria-funeraria/coronas/Corona19.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 817888
+        },
+        {
+          "originalPath": "coronas/Corona2.webp",
+          "filename": "Corona2.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661858/floreria/galeria-funeraria/coronas/Corona2.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 604500
+        },
+        {
+          "originalPath": "coronas/Corona20.webp",
+          "filename": "Corona20.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona20",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661866/floreria/galeria-funeraria/coronas/Corona20.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 770370
+        },
+        {
+          "originalPath": "coronas/Corona21.webp",
+          "filename": "Corona21.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona21",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661877/floreria/galeria-funeraria/coronas/Corona21.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2309115
+        },
+        {
+          "originalPath": "coronas/Corona22.webp",
+          "filename": "Corona22.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona22",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661885/floreria/galeria-funeraria/coronas/Corona22.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 787076
+        },
+        {
+          "originalPath": "coronas/Corona23.webp",
+          "filename": "Corona23.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona23",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661896/floreria/galeria-funeraria/coronas/Corona23.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 639839
+        },
+        {
+          "originalPath": "coronas/Corona24.webp",
+          "filename": "Corona24.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona24",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661908/floreria/galeria-funeraria/coronas/Corona24.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 780082
+        },
+        {
+          "originalPath": "coronas/Corona25.webp",
+          "filename": "Corona25.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona25",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661917/floreria/galeria-funeraria/coronas/Corona25.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2114327
+        },
+        {
+          "originalPath": "coronas/Corona26.webp",
+          "filename": "Corona26.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona26",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661925/floreria/galeria-funeraria/coronas/Corona26.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2091889
+        },
+        {
+          "originalPath": "coronas/Corona27.webp",
+          "filename": "Corona27.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona27",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661933/floreria/galeria-funeraria/coronas/Corona27.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2402071
+        },
+        {
+          "originalPath": "coronas/Corona28.webp",
+          "filename": "Corona28.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona28",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661940/floreria/galeria-funeraria/coronas/Corona28.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2464942
+        },
+        {
+          "originalPath": "coronas/Corona29.webp",
+          "filename": "Corona29.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona29",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661947/floreria/galeria-funeraria/coronas/Corona29.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 738100
+        },
+        {
+          "originalPath": "coronas/Corona3.webp",
+          "filename": "Corona3.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661959/floreria/galeria-funeraria/coronas/Corona3.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 704124
+        },
+        {
+          "originalPath": "coronas/Corona4.webp",
+          "filename": "Corona4.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661969/floreria/galeria-funeraria/coronas/Corona4.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 551289
+        },
+        {
+          "originalPath": "coronas/Corona5.webp",
+          "filename": "Corona5.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661981/floreria/galeria-funeraria/coronas/Corona5.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 682449
+        },
+        {
+          "originalPath": "coronas/Corona6.webp",
+          "filename": "Corona6.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777661993/floreria/galeria-funeraria/coronas/Corona6.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 776228
+        },
+        {
+          "originalPath": "coronas/Corona7.webp",
+          "filename": "Corona7.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662003/floreria/galeria-funeraria/coronas/Corona7.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 783820
+        },
+        {
+          "originalPath": "coronas/Corona8.webp",
+          "filename": "Corona8.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662013/floreria/galeria-funeraria/coronas/Corona8.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 846456
+        },
+        {
+          "originalPath": "coronas/Corona9.webp",
+          "filename": "Corona9.webp",
+          "publicId": "floreria/galeria-funeraria/coronas/Corona9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662025/floreria/galeria-funeraria/coronas/Corona9.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 738595
+        },
+        {
+          "originalPath": "cruces/Cruz1.webp",
+          "filename": "Cruz1.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662039/floreria/galeria-funeraria/cruces/Cruz1.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 486046
+        },
+        {
+          "originalPath": "cruces/Cruz2.webp",
+          "filename": "Cruz2.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662051/floreria/galeria-funeraria/cruces/Cruz2.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 353649
+        },
+        {
+          "originalPath": "cruces/Cruz3.webp",
+          "filename": "Cruz3.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662059/floreria/galeria-funeraria/cruces/Cruz3.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1783198
+        },
+        {
+          "originalPath": "cruces/Cruz4.webp",
+          "filename": "Cruz4.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662066/floreria/galeria-funeraria/cruces/Cruz4.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 426222
+        },
+        {
+          "originalPath": "cruces/Cruz5.webp",
+          "filename": "Cruz5.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662079/floreria/galeria-funeraria/cruces/Cruz5.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 409918
+        },
+        {
+          "originalPath": "cruces/Cruz6.webp",
+          "filename": "Cruz6.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662088/floreria/galeria-funeraria/cruces/Cruz6.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 363802
+        },
+        {
+          "originalPath": "cruces/Cruz7.webp",
+          "filename": "Cruz7.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662096/floreria/galeria-funeraria/cruces/Cruz7.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 482649
+        },
+        {
+          "originalPath": "cruces/Cruz8.webp",
+          "filename": "Cruz8.webp",
+          "publicId": "floreria/galeria-funeraria/cruces/Cruz8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662108/floreria/galeria-funeraria/cruces/Cruz8.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 451534
+        },
+        {
+          "originalPath": "cubreCaja/CubreCaja1.webp",
+          "filename": "CubreCaja1.webp",
+          "publicId": "floreria/galeria-funeraria/cubreCaja/CubreCaja1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662117/floreria/galeria-funeraria/cubreCaja/CubreCaja1.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 469351
+        },
+        {
+          "originalPath": "cubreCaja/CubreCaja2.webp",
+          "filename": "CubreCaja2.webp",
+          "publicId": "floreria/galeria-funeraria/cubreCaja/CubreCaja2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662129/floreria/galeria-funeraria/cubreCaja/CubreCaja2.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 574609
+        },
+        {
+          "originalPath": "cubreCaja/CubreCaja3.webp",
+          "filename": "CubreCaja3.webp",
+          "publicId": "floreria/galeria-funeraria/cubreCaja/CubreCaja3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662142/floreria/galeria-funeraria/cubreCaja/CubreCaja3.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 476024
+        },
+        {
+          "originalPath": "cubreCaja/CubreCaja4.webp",
+          "filename": "CubreCaja4.webp",
+          "publicId": "floreria/galeria-funeraria/cubreCaja/CubreCaja4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662153/floreria/galeria-funeraria/cubreCaja/CubreCaja4.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 461902
+        },
+        {
+          "originalPath": "cubreCaja/CubreCaja5.webp",
+          "filename": "CubreCaja5.webp",
+          "publicId": "floreria/galeria-funeraria/cubreCaja/CubreCaja5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662167/floreria/galeria-funeraria/cubreCaja/CubreCaja5.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 459728
+        },
+        {
+          "originalPath": "cubreCaja/CubreCaja6.webp",
+          "filename": "CubreCaja6.webp",
+          "publicId": "floreria/galeria-funeraria/cubreCaja/CubreCaja6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662177/floreria/galeria-funeraria/cubreCaja/CubreCaja6.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1953844
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar1.webp",
+          "filename": "PieDeCajaAltar1.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662183/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar1.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 682072
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar10.webp",
+          "filename": "PieDeCajaAltar10.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662196/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar10.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2611593
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar11.webp",
+          "filename": "PieDeCajaAltar11.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662205/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar11.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 791885
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar12.webp",
+          "filename": "PieDeCajaAltar12.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662216/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar12.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 653280
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar13.webp",
+          "filename": "PieDeCajaAltar13.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar13",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662227/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar13.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 694813
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar14.webp",
+          "filename": "PieDeCajaAltar14.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar14",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662237/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar14.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 2929980
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar2.webp",
+          "filename": "PieDeCajaAltar2.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662244/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar2.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 697021
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar3.webp",
+          "filename": "PieDeCajaAltar3.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662258/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar3.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 677724
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar4.webp",
+          "filename": "PieDeCajaAltar4.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662270/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar4.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 662152
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar5.webp",
+          "filename": "PieDeCajaAltar5.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662279/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar5.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 1885453
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar6.webp",
+          "filename": "PieDeCajaAltar6.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662287/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar6.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 681669
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar7.webp",
+          "filename": "PieDeCajaAltar7.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662300/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar7.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 655723
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar8.webp",
+          "filename": "PieDeCajaAltar8.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662311/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar8.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 642914
+        },
+        {
+          "originalPath": "pieCajaAltar/PieDeCajaAltar9.webp",
+          "filename": "PieDeCajaAltar9.webp",
+          "publicId": "floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662323/floreria/galeria-funeraria/pieCajaAltar/PieDeCajaAltar9.png",
+          "width": 1200,
+          "height": 1600,
+          "format": "png",
+          "bytes": 704606
+        }
+      ],
+      "successCount": 57,
+      "failureCount": 0
+    },
+    "quinceanera": {
+      "name": "Quinceañera",
+      "images": [
+        {
+          "originalPath": "centroDeMesa/ArregloFloral1.png",
+          "filename": "ArregloFloral1.png",
+          "publicId": "floreria/quinceanera/centroDeMesa/ArregloFloral1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662333/floreria/quinceanera/centroDeMesa/ArregloFloral1.jpg",
+          "width": 1001,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 92862
+        },
+        {
+          "originalPath": "centroDeMesa/arregloFloral2.png",
+          "filename": "arregloFloral2.png",
+          "publicId": "floreria/quinceanera/centroDeMesa/arregloFloral2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662339/floreria/quinceanera/centroDeMesa/arregloFloral2.jpg",
+          "width": 1001,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 250288
+        },
+        {
+          "originalPath": "centroDeMesa/centroDeMesa1.jpeg",
+          "filename": "centroDeMesa1.jpeg",
+          "publicId": "floreria/quinceanera/centroDeMesa/centroDeMesa1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662346/floreria/quinceanera/centroDeMesa/centroDeMesa1.jpg",
+          "width": 1280,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 322729
+        },
+        {
+          "originalPath": "centroDeMesa/centroDeMesa2.png",
+          "filename": "centroDeMesa2.png",
+          "publicId": "floreria/quinceanera/centroDeMesa/centroDeMesa2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662353/floreria/quinceanera/centroDeMesa/centroDeMesa2.jpg",
+          "width": 1001,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 79686
+        },
+        {
+          "originalPath": "centroDeMesa/centroDeMesa3.png",
+          "filename": "centroDeMesa3.png",
+          "publicId": "floreria/quinceanera/centroDeMesa/centroDeMesa3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662357/floreria/quinceanera/centroDeMesa/centroDeMesa3.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 1414606
+        },
+        {
+          "originalPath": "ramos/ramo-quinceanera1.png",
+          "filename": "ramo-quinceanera1.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quinceanera1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662366/floreria/quinceanera/ramos/ramo-quinceanera1.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 444727
+        },
+        {
+          "originalPath": "ramos/ramo-quinceanera2.png",
+          "filename": "ramo-quinceanera2.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quinceanera2",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662375/floreria/quinceanera/ramos/ramo-quinceanera2.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 390046
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera10.png",
+          "filename": "ramo-quincenera10.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera10",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662383/floreria/quinceanera/ramos/ramo-quincenera10.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 654383
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera11.png",
+          "filename": "ramo-quincenera11.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662393/floreria/quinceanera/ramos/ramo-quincenera11.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 554848
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera4.png",
+          "filename": "ramo-quincenera4.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662404/floreria/quinceanera/ramos/ramo-quincenera4.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 183710
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera5.png",
+          "filename": "ramo-quincenera5.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662414/floreria/quinceanera/ramos/ramo-quincenera5.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 444727
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera6.png",
+          "filename": "ramo-quincenera6.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662421/floreria/quinceanera/ramos/ramo-quincenera6.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 621518
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera7.png",
+          "filename": "ramo-quincenera7.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera7",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662434/floreria/quinceanera/ramos/ramo-quincenera7.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 193257
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera8.png",
+          "filename": "ramo-quincenera8.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662446/floreria/quinceanera/ramos/ramo-quincenera8.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 522995
+        },
+        {
+          "originalPath": "ramos/ramo-quincenera9.png",
+          "filename": "ramo-quincenera9.png",
+          "publicId": "floreria/quinceanera/ramos/ramo-quincenera9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662455/floreria/quinceanera/ramos/ramo-quincenera9.png",
+          "width": 750,
+          "height": 1334,
+          "format": "png",
+          "bytes": 942539
+        },
+        {
+          "originalPath": "templo/templo1.jpeg",
+          "filename": "templo1.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo1",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662464/floreria/quinceanera/templo/templo1.jpg",
+          "width": 960,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 168450
+        },
+        {
+          "originalPath": "templo/templo11.jpeg",
+          "filename": "templo11.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo11",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662468/floreria/quinceanera/templo/templo11.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "bytes": 252871
+        },
+        {
+          "originalPath": "templo/templo12.jpeg",
+          "filename": "templo12.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo12",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662472/floreria/quinceanera/templo/templo12.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "bytes": 208476
+        },
+        {
+          "originalPath": "templo/templo13.jpeg",
+          "filename": "templo13.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo13",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662476/floreria/quinceanera/templo/templo13.jpg",
+          "width": 1024,
+          "height": 768,
+          "format": "jpg",
+          "bytes": 115548
+        },
+        {
+          "originalPath": "templo/templo16.jpeg",
+          "filename": "templo16.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo16",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662479/floreria/quinceanera/templo/templo16.jpg",
+          "width": 1280,
+          "height": 724,
+          "format": "jpg",
+          "bytes": 126777
+        },
+        {
+          "originalPath": "templo/templo17.jpeg",
+          "filename": "templo17.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo17",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662484/floreria/quinceanera/templo/templo17.jpg",
+          "width": 1280,
+          "height": 622,
+          "format": "jpg",
+          "bytes": 129604
+        },
+        {
+          "originalPath": "templo/templo18.jpeg",
+          "filename": "templo18.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo18",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662488/floreria/quinceanera/templo/templo18.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "bytes": 209309
+        },
+        {
+          "originalPath": "templo/templo22.jpeg",
+          "filename": "templo22.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo22",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662494/floreria/quinceanera/templo/templo22.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 121434
+        },
+        {
+          "originalPath": "templo/templo24.jpeg",
+          "filename": "templo24.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo24",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662499/floreria/quinceanera/templo/templo24.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 70557
+        },
+        {
+          "originalPath": "templo/templo25.jpeg",
+          "filename": "templo25.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo25",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662503/floreria/quinceanera/templo/templo25.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 75465
+        },
+        {
+          "originalPath": "templo/templo27.jpeg",
+          "filename": "templo27.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo27",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662506/floreria/quinceanera/templo/templo27.jpg",
+          "width": 960,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 213617
+        },
+        {
+          "originalPath": "templo/templo28.jpeg",
+          "filename": "templo28.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo28",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662510/floreria/quinceanera/templo/templo28.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 78761
+        },
+        {
+          "originalPath": "templo/templo29.jpeg",
+          "filename": "templo29.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo29",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662515/floreria/quinceanera/templo/templo29.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 144914
+        },
+        {
+          "originalPath": "templo/templo3.jpeg",
+          "filename": "templo3.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo3",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662522/floreria/quinceanera/templo/templo3.jpg",
+          "width": 960,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 226168
+        },
+        {
+          "originalPath": "templo/templo30.jpeg",
+          "filename": "templo30.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo30",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662527/floreria/quinceanera/templo/templo30.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 64782
+        },
+        {
+          "originalPath": "templo/templo4.jpeg",
+          "filename": "templo4.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo4",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662531/floreria/quinceanera/templo/templo4.jpg",
+          "width": 960,
+          "height": 1280,
+          "format": "jpg",
+          "bytes": 241955
+        },
+        {
+          "originalPath": "templo/templo5.jpeg",
+          "filename": "templo5.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo5",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662535/floreria/quinceanera/templo/templo5.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 89853
+        },
+        {
+          "originalPath": "templo/templo6.jpeg",
+          "filename": "templo6.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo6",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662538/floreria/quinceanera/templo/templo6.jpg",
+          "width": 1280,
+          "height": 991,
+          "format": "jpg",
+          "bytes": 81329
+        },
+        {
+          "originalPath": "templo/templo8.jpeg",
+          "filename": "templo8.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo8",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662542/floreria/quinceanera/templo/templo8.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "bytes": 288159
+        },
+        {
+          "originalPath": "templo/templo9.jpeg",
+          "filename": "templo9.jpeg",
+          "publicId": "floreria/quinceanera/templo/templo9",
+          "url": "https://res.cloudinary.com/difk1abvo/image/upload/v1777662546/floreria/quinceanera/templo/templo9.jpg",
+          "width": 1280,
+          "height": 960,
+          "format": "jpg",
+          "bytes": 209192
+        }
+      ],
+      "successCount": 35,
+      "failureCount": 0
+    }
+  },
+  "summary": {
+    "totalImages": 375,
+    "successCount": 375,
+    "failureCount": 0,
+    "totalBytes": 396275499
+  },
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "migration-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scripts for migrating images to Cloudinary",
+  "scripts": {
+    "audit": "node auditImages.js",
+    "upload": "node uploadToCloudinary.js",
+    "generate": "node generateProductData.js",
+    "migrate": "npm run audit && npm run upload && npm run generate"
+  },
+  "dependencies": {
+    "cloudinary": "^2.0.0",
+    "dotenv": "^17.4.2"
+  }
+}
