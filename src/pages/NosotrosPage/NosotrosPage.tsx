@@ -59,7 +59,7 @@ const NosotrosPage: React.FC = () => {
         </div>
       </section>
 
-      <section className={styles.teamSection}>
+      {/* <section className={styles.teamSection}>
         <div className={styles.container}>
           <h2 className={styles.sectionTitleCenter}>{ABOUT_TEAM.title}</h2>
           <p className={styles.teamIntro}>{ABOUT_TEAM.intro}</p>
@@ -79,7 +79,7 @@ const NosotrosPage: React.FC = () => {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       <RibbonFooter
         title="TU CÓMPLICE FLORAL"
