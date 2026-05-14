@@ -46,7 +46,7 @@ const CATEGORY_MAP = {
     subcategories: ['arreglo-de-templo', 'bautizo', 'hermita']
   },
   'galeriaFuneraria': {
-    name: 'Para Recordar y...',
+    name: 'Para Recordar y Despedir',
     slug: 'galeria-funeraria',
     subcategories: ['coronas', 'cruces', 'cubre-caja', 'pie-caja-altar']
   },
