@@ -223,7 +223,7 @@ export const CATEGORIES: CategoryMetadata[] = [
   },
   {
     id: 'galeria-funeraria',
-    name: 'Para Recordar y...',
+    name: 'Para Recordar y Despedir',
     slug: 'galeria-funeraria',
     subtitle: 'Un último homenaje con amor',
     description: 'Arreglos florales solemnes para honrar la memoria de tus seres queridos con respeto y cariño.',
