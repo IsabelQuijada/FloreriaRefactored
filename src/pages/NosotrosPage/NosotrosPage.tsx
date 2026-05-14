@@ -3,8 +3,8 @@ import RibbonFooter from '../../components/RibbonFooter/RibbonFooter';
 import PageHero from '../../components/ui/PageHero/PageHero';
 import {
   ABOUT_PAGE_CONTENT,
-  ABOUT_TEAM,
-  ABOUT_TEAM_MEMBERS,
+  // ABOUT_TEAM,
+  // ABOUT_TEAM_MEMBERS,
   ABOUT_VALUES,
 } from '../../constants/pagesContent';
 import styles from './NosotrosPage.module.css';
