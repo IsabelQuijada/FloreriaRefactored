@@ -208,16 +208,29 @@
   box-shadow: 0 16px 28px rgba(109, 30, 97, 0.12);
 }
 
-.teamImage {
-  width: 100%;
-  max-width: 220px;
+.teamImageWrap {
+  width: min(220px, 100%);
   aspect-ratio: 1 / 1;
-  object-fit: cover;
-  object-position: center 30%;
   border-radius: 999px;
+  overflow: hidden;
   margin: 0 auto 1rem;
   background-color: var(--bg-cream);
 }
+
+.teamImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  display: block;
+}
+
+.teamCard:nth-child(2) .teamImage {
+  object-position: center 10%;
+  transform: scale(1.8);
+  transform-origin: center;
+}
+
 
 .teamName {
   font-size: 1.2rem;

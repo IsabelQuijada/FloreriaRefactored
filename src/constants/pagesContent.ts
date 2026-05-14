@@ -43,14 +43,14 @@ const qualityIcon = new URL('../assets/calidad.png', import.meta.url).href;
 const trustIcon = new URL('../assets/confianza.png', import.meta.url).href;
 const traditionIcon = new URL('../assets/tradicion.png', import.meta.url).href;
 const profileImagePng = new URL('../assets/perfilPicture.png', import.meta.url).href;
-const profileImageJpeg = new URL('../assets/perfilPicture.jpeg', import.meta.url).href;
+const profileImageJpeg = new URL('../assets/albertoAnguiano.png', import.meta.url).href;
 
 export const ABOUT_PAGE_CONTENT = {
   heroTitle: 'NUESTRA HISTORIA',
   heroSubtitle: 'Más de dos décadas creando momentos inolvidables',
   sectionTitle: 'La Historia de Florería Valeria',
   intro:
-    'En el corazón de Cocula, Jalisco, nuestra historia comenzó en el año 2000, movida por el cariño a las flores y a nuestra gente. Aidee Camacho, con el apoyo de su familia y muchas ganas de compartir belleza, abrió las puertas de Florería Valeria.',
+    'En el corazón de Cocula, Jalisco, nuestra historia comenzó en el año 2000, movida por el cariño a las flores y a nuestra gente. Aideé Camacho, con el apoyo de su familia y muchas ganas de compartir belleza, abrió las puertas de Florería Valeria.',
   paragraphs: [
     'Empezamos en un pequeño local del centro, donde cada arreglo se hacía con dedicación y mucho amor. Pronto, nuestros clientes se volvieron amigos, y sus historias y celebraciones también fueron parte de la nuestra.',
     'Con el tiempo, la florería fue creciendo, pero nunca perdimos ese trato cercano y familiar. Cada ramo y cada arreglo lleva un pedacito de nosotros, acompañando bodas, quinceañeras, aniversarios, despedidas y muchos momentos importantes de la vida.',
@@ -100,15 +100,15 @@ export const ABOUT_TEAM = {
 
 export const ABOUT_TEAM_MEMBERS: AboutTeamMember[] = [
   {
-    name: 'Aidee Camacho',
+    name: 'Aideé Camacho',
     role: 'Fundadora y Diseñadora Principal',
     description:
-      'Con más de 20 años de experiencia, Aidee sigue siendo el corazón creativo de la florería.',
+      'Con más de 20 años de experiencia, Aideé sigue siendo el corazón creativo de la florería.',
     imageUrl: profileImagePng,
-    imageAlt: 'Aidee Camacho',
+    imageAlt: 'Aideé Camacho',
   },
   {
-    name: 'Nuestro Equipo',
+    name: 'Alberto Anguiano',
     role: 'Artistas Florales',
     description:
       'Un equipo comprometido con la excelencia y la atención personalizada en cada proyecto.',

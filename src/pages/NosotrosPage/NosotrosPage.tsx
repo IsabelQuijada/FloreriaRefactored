@@ -3,8 +3,8 @@ import RibbonFooter from '../../components/RibbonFooter/RibbonFooter';
 import PageHero from '../../components/ui/PageHero/PageHero';
 import {
   ABOUT_PAGE_CONTENT,
-  // ABOUT_TEAM,
-  // ABOUT_TEAM_MEMBERS,
+  ABOUT_TEAM,
+  ABOUT_TEAM_MEMBERS,
   ABOUT_VALUES,
 } from '../../constants/pagesContent';
 import styles from './NosotrosPage.module.css';
@@ -59,19 +59,21 @@ const NosotrosPage: React.FC = () => {
         </div>
       </section>
 
-      {/* <section className={styles.teamSection}>
+      <section className={styles.teamSection}>
         <div className={styles.container}>
           <h2 className={styles.sectionTitleCenter}>{ABOUT_TEAM.title}</h2>
           <p className={styles.teamIntro}>{ABOUT_TEAM.intro}</p>
           <div className={styles.teamGrid}>
             {ABOUT_TEAM_MEMBERS.map((member) => (
               <article key={member.name} className={styles.teamCard}>
-                <img
-                  src={member.imageUrl}
-                  alt={member.imageAlt}
-                  loading="lazy"
-                  className={styles.teamImage}
-                />
+                <div className={styles.teamImageWrap}>
+                  <img
+                    src={member.imageUrl}
+                    alt={member.imageAlt}
+                    loading="lazy"
+                    className={styles.teamImage}
+                  />
+                </div>
                 <h3 className={styles.teamName}>{member.name}</h3>
                 <p className={styles.teamRole}>{member.role}</p>
                 <p className={styles.teamDescription}>{member.description}</p>
@@ -79,7 +81,7 @@ const NosotrosPage: React.FC = () => {
             ))}
           </div>
         </div>
-      </section> */}
+      </section>
 
       <RibbonFooter
         title="TU CÓMPLICE FLORAL"
